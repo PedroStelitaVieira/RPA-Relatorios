@@ -1,0 +1,162 @@
+[
+    {
+        "distribuidora": "AL",
+        "indicador": "Tratativas detratores",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Risco a Imagem",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Funcionamento | Agências",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Risco a Vida",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Rechamadas",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 16.01
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "Comportamento Inadequado",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "BR",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 84.98
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Rechamadas",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Imprensa | Favorabilidade",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Clientes na agência",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 0.76
+    },
+    {
+        "distribuidora": "CSA",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "INS Atendimento | Agências",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Funcionamento | Postos Credenciados",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Comportamento Inadequado",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Rechamadas",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 1.15
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "INS Atendimento | Agências",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Rechamadas",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Funcionamento | Agências",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Tratativas detratores",
+        "tempoMedioRespostaMin": 2810.04
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "INS Atendimento | Agências",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Tratativas detratores",
+        "tempoMedioRespostaMin": 879.1
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 31.73
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Funcionamento | Postos Credenciados",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Imprensa | Favorabilidade",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Tratativas detratores",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "INS Atendimento | Agências",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Clientes na agência",
+        "tempoMedioRespostaMin": null
+    }
+]

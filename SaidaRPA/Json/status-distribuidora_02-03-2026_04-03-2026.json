@@ -1,0 +1,102 @@
+[
+    {
+        "distribuidora": "AL",
+        "status": "Concluído",
+        "totalTickets": 16
+    },
+    {
+        "distribuidora": "AL",
+        "status": "Tempo excedido",
+        "totalTickets": 10
+    },
+    {
+        "distribuidora": "AL",
+        "status": "Novo",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "CEEE",
+        "status": "Análise",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "CEEE",
+        "status": "Concluído",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "CEEE",
+        "status": "Novo",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CEEE",
+        "status": "Tempo excedido",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "GO",
+        "status": "Análise",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "GO",
+        "status": "Tempo excedido",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "GO",
+        "status": "Concluído",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "MA",
+        "status": "Análise",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "MA",
+        "status": "Concluído",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "MA",
+        "status": "Tempo excedido",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "PA",
+        "status": "Tempo excedido",
+        "totalTickets": 5
+    },
+    {
+        "distribuidora": "PA",
+        "status": "Concluído",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "PA",
+        "status": "Novo",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "PI",
+        "status": "Tempo excedido",
+        "totalTickets": 12
+    },
+    {
+        "distribuidora": "PI",
+        "status": "Análise",
+        "totalTickets": 7
+    },
+    {
+        "distribuidora": "PI",
+        "status": "Concluído",
+        "totalTickets": 6
+    },
+    {
+        "distribuidora": "PI",
+        "status": "Novo",
+        "totalTickets": 6
+    }
+]

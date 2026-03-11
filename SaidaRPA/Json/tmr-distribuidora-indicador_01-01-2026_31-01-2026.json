@@ -1,0 +1,137 @@
+[
+    {
+        "distribuidora": "AL",
+        "indicador": "Imprensa | Favorabilidade",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Risco a Imagem",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Tratativas detratores",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 520.78
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 337.74
+    },
+    {
+        "distribuidora": "CEA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 483.82
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Tratativas detratores",
+        "tempoMedioRespostaMin": 5541.47
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 164.93
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 119.61
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Imprensa | Favorabilidade",
+        "tempoMedioRespostaMin": 16.95
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Rechamadas",
+        "tempoMedioRespostaMin": 0.72
+    },
+    {
+        "distribuidora": "CSA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 1162.41
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Tratativas detratores",
+        "tempoMedioRespostaMin": 20108.69
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 204.76
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Imprensa | Favorabilidade",
+        "tempoMedioRespostaMin": 37.33
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 31.35
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Tratativas detratores",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Comportamento Inadequado",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 209.16
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 161.66
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Tratativas detratores",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 160.09
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Tratativas detratores",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 616.43
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 100.9
+    }
+]

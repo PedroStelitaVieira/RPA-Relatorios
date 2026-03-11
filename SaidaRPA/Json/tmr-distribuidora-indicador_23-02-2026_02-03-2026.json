@@ -1,0 +1,47 @@
+[
+    {
+        "distribuidora": "AL",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 245.36
+    },
+    {
+        "distribuidora": "CSA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 91.17
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Rechamadas",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 378.34
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 127.95
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 2389.09
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 190.73
+    }
+]

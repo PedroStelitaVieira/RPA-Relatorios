@@ -1,0 +1,77 @@
+[
+    {
+        "distribuidora": "AL",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 886.6
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 59
+    },
+    {
+        "distribuidora": "CEA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 212.28
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 31.12
+    },
+    {
+        "distribuidora": "CSA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 22.25
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 127.7
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 7.72
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Tratativas detratores",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 92.41
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 11.93
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 57.36
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 221.68
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 39.65
+    }
+]

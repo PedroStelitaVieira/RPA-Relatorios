@@ -1,0 +1,200 @@
+[
+    {
+        "distribuidora": "AL",
+        "indicador": "Fila INS Cliente",
+        "status": "Tempo excedido",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Imprensa | Favorabilidade",
+        "status": "Tempo excedido",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Concluído",
+        "totalTickets": 15
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Tempo excedido",
+        "totalTickets": 12
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "status": "Concluído",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Clientes na agência",
+        "status": "Concluído",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Fila INS Cliente",
+        "status": "Concluído",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Fila INS Cliente",
+        "status": "Tempo excedido",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Concluído",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Análise",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "INS Atendimento",
+        "status": "Tempo excedido",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Fila INS Cliente",
+        "status": "Tempo excedido",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Análise",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Concluído",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "INS Atendimento",
+        "status": "Concluído",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "INS Atendimento",
+        "status": "Tempo excedido",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Fila INS Cliente",
+        "status": "Análise",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Fila INS Cliente",
+        "status": "Tempo excedido",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Análise",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Concluído",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Fila INS Cliente",
+        "status": "Tempo excedido",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Concluído",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Tempo excedido",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "INS Atendimento",
+        "status": "Concluído",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Rechamadas",
+        "status": "Tempo excedido",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Clientes na agência",
+        "status": "Concluído",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Clientes na agência",
+        "status": "Análise",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Fila INS Cliente",
+        "status": "Tempo excedido",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Imprensa | Favorabilidade",
+        "status": "Tempo excedido",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Tempo excedido",
+        "totalTickets": 13
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Análise",
+        "totalTickets": 6
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Concluído",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "status": "Tempo excedido",
+        "totalTickets": 1
+    }
+]

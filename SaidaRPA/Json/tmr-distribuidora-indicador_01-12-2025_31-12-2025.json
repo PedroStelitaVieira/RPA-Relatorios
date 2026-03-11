@@ -1,0 +1,167 @@
+[
+    {
+        "distribuidora": "AL",
+        "indicador": "Imprensa | Favorabilidade",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 407.22
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 108.46
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Risco a Imagem",
+        "tempoMedioRespostaMin": 23.33
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "Funcionamento",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "CEA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 314.37
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Tratativas detratores",
+        "tempoMedioRespostaMin": 3849.75
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 330.56
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 83.82
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "tempoMedioRespostaMin": 63.63
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Imprensa | Favorabilidade",
+        "tempoMedioRespostaMin": 10.99
+    },
+    {
+        "distribuidora": "CSA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 223.3
+    },
+    {
+        "distribuidora": "CSA",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "tempoMedioRespostaMin": 37.31
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "INS Atendimento",
+        "tempoMedioRespostaMin": 316.87
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 53.98
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 49.41
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Comportamento Inadequado",
+        "tempoMedioRespostaMin": 41.37
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Imprensa | Favorabilidade",
+        "tempoMedioRespostaMin": 5.2
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Tratativas detratores",
+        "tempoMedioRespostaMin": 2.1
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Rechamadas",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "tempoMedioRespostaMin": 1050.49
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Funcionamento",
+        "tempoMedioRespostaMin": 204.95
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 107.01
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 32.13
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "INS Atendimento",
+        "tempoMedioRespostaMin": 26.16
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "INS Atendimento",
+        "tempoMedioRespostaMin": 4342.63
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 60.99
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Clientes na agência",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Imprensa | Favorabilidade",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 592.85
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "INS Atendimento",
+        "tempoMedioRespostaMin": 118.23
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 95.12
+    }
+]

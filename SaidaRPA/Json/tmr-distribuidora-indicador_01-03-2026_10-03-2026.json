@@ -1,0 +1,182 @@
+[
+    {
+        "distribuidora": "AL",
+        "indicador": "Risco a Imagem",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Imprensa | Favorabilidade",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 701.46
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 150.81
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "tempoMedioRespostaMin": 21.19
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "INS Atendimento | Postos Credenciados",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "Risco a Imagem",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Comportamento Inadequado",
+        "tempoMedioRespostaMin": 3756.66
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Tratativas detratores",
+        "tempoMedioRespostaMin": 48.31
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "INS Atendimento | Agências",
+        "tempoMedioRespostaMin": 43.08
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 24.63
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Clientes na agência",
+        "tempoMedioRespostaMin": 23.63
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 10.82
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Clientes na agência",
+        "tempoMedioRespostaMin": 311.04
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "INS Atendimento | Agências",
+        "tempoMedioRespostaMin": 241.08
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 135.25
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 26.94
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Rechamadas",
+        "tempoMedioRespostaMin": 417.37
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 65.86
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "INS Atendimento | Agências",
+        "tempoMedioRespostaMin": 37.49
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 33.21
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Clientes na agência",
+        "tempoMedioRespostaMin": 8.38
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Rechamadas",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Comportamento Inadequado",
+        "tempoMedioRespostaMin": 1420.02
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 458.91
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Imprensa | Favorabilidade",
+        "tempoMedioRespostaMin": 257.57
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 196.25
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "INS Atendimento | Agências",
+        "tempoMedioRespostaMin": 123.76
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Comportamento Inadequado",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Imprensa | Favorabilidade",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 382.32
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "INS Atendimento | Agências",
+        "tempoMedioRespostaMin": 55.91
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Clientes na agência",
+        "tempoMedioRespostaMin": 26.32
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 25.94
+    }
+]

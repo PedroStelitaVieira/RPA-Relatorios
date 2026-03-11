@@ -1,0 +1,122 @@
+[
+    {
+        "distribuidora": "AL",
+        "status": "Tempo excedido",
+        "totalTickets": 496
+    },
+    {
+        "distribuidora": "AL",
+        "status": "Concluído",
+        "totalTickets": 152
+    },
+    {
+        "distribuidora": "AL",
+        "status": "Análise",
+        "totalTickets": 16
+    },
+    {
+        "distribuidora": "AP",
+        "status": "Tempo excedido",
+        "totalTickets": 5
+    },
+    {
+        "distribuidora": "AP",
+        "status": "Concluído",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CEA",
+        "status": "Concluído",
+        "totalTickets": 106
+    },
+    {
+        "distribuidora": "CEA",
+        "status": "Tempo excedido",
+        "totalTickets": 39
+    },
+    {
+        "distribuidora": "CEEE",
+        "status": "Concluído",
+        "totalTickets": 354
+    },
+    {
+        "distribuidora": "CEEE",
+        "status": "Tempo excedido",
+        "totalTickets": 88
+    },
+    {
+        "distribuidora": "CEEE",
+        "status": "Análise",
+        "totalTickets": 33
+    },
+    {
+        "distribuidora": "CSA",
+        "status": "Concluído",
+        "totalTickets": 73
+    },
+    {
+        "distribuidora": "CSA",
+        "status": "Tempo excedido",
+        "totalTickets": 27
+    },
+    {
+        "distribuidora": "GO",
+        "status": "Concluído",
+        "totalTickets": 496
+    },
+    {
+        "distribuidora": "GO",
+        "status": "Tempo excedido",
+        "totalTickets": 47
+    },
+    {
+        "distribuidora": "GO",
+        "status": "Análise",
+        "totalTickets": 7
+    },
+    {
+        "distribuidora": "MA",
+        "status": "Concluído",
+        "totalTickets": 398
+    },
+    {
+        "distribuidora": "MA",
+        "status": "Tempo excedido",
+        "totalTickets": 91
+    },
+    {
+        "distribuidora": "MA",
+        "status": "Análise",
+        "totalTickets": 13
+    },
+    {
+        "distribuidora": "PA",
+        "status": "Tempo excedido",
+        "totalTickets": 568
+    },
+    {
+        "distribuidora": "PA",
+        "status": "Concluído",
+        "totalTickets": 113
+    },
+    {
+        "distribuidora": "PA",
+        "status": "Análise",
+        "totalTickets": 54
+    },
+    {
+        "distribuidora": "PI",
+        "status": "Tempo excedido",
+        "totalTickets": 548
+    },
+    {
+        "distribuidora": "PI",
+        "status": "Análise",
+        "totalTickets": 295
+    },
+    {
+        "distribuidora": "PI",
+        "status": "Concluído",
+        "totalTickets": 45
+    }
+]

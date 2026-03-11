@@ -1,0 +1,87 @@
+[
+    {
+        "distribuidora": "AL",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 24
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Imprensa | Favorabilidade",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Risco a Imagem",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Fila INS Cliente",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CEA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 7
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 19
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Tratativas detratores",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Fila INS Cliente",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 10
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Fila INS Cliente",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Tratativas detratores",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 17
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Fila INS Cliente",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 19
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Fila INS Cliente",
+        "totalTickets": 1
+    }
+]

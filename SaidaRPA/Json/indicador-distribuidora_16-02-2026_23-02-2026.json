@@ -1,0 +1,67 @@
+[
+    {
+        "distribuidora": "AL",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 6
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Fila INS Cliente",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "CEA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "CEA",
+        "indicador": "Tratativas detratores",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Tratativas detratores",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 15
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Tratativas detratores",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 9
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 10
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Tratativas detratores",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 19
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Fila INS Cliente",
+        "totalTickets": 2
+    }
+]

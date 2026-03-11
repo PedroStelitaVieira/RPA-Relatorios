@@ -1,0 +1,97 @@
+[
+    {
+        "distribuidora": "AL",
+        "status": "Concluído",
+        "totalTickets": 25
+    },
+    {
+        "distribuidora": "AL",
+        "status": "Tempo excedido",
+        "totalTickets": 13
+    },
+    {
+        "distribuidora": "AL",
+        "status": "Novo",
+        "totalTickets": 8
+    },
+    {
+        "distribuidora": "AL",
+        "status": "Análise",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "CEA",
+        "status": "Tempo excedido",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CEEE",
+        "status": "Análise",
+        "totalTickets": 13
+    },
+    {
+        "distribuidora": "CEEE",
+        "status": "Concluído",
+        "totalTickets": 8
+    },
+    {
+        "distribuidora": "CEEE",
+        "status": "Tempo excedido",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CSA",
+        "status": "Concluído",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "GO",
+        "status": "Análise",
+        "totalTickets": 17
+    },
+    {
+        "distribuidora": "GO",
+        "status": "Concluído",
+        "totalTickets": 16
+    },
+    {
+        "distribuidora": "MA",
+        "status": "Análise",
+        "totalTickets": 12
+    },
+    {
+        "distribuidora": "MA",
+        "status": "Concluído",
+        "totalTickets": 11
+    },
+    {
+        "distribuidora": "MA",
+        "status": "Tempo excedido",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "PA",
+        "status": "Tempo excedido",
+        "totalTickets": 33
+    },
+    {
+        "distribuidora": "PA",
+        "status": "Concluído",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "PI",
+        "status": "Análise",
+        "totalTickets": 53
+    },
+    {
+        "distribuidora": "PI",
+        "status": "Tempo excedido",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "PI",
+        "status": "Concluído",
+        "totalTickets": 1
+    }
+]

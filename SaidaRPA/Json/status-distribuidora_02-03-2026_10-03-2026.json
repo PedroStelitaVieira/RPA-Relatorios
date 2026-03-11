@@ -1,0 +1,117 @@
+[
+    {
+        "distribuidora": "AL",
+        "status": "Concluído",
+        "totalTickets": 26
+    },
+    {
+        "distribuidora": "AL",
+        "status": "Tempo excedido",
+        "totalTickets": 18
+    },
+    {
+        "distribuidora": "AL",
+        "status": "Novo",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "AL",
+        "status": "Análise",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "AP",
+        "status": "Tempo excedido",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "AP",
+        "status": "Novo",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CEEE",
+        "status": "Concluído",
+        "totalTickets": 15
+    },
+    {
+        "distribuidora": "CEEE",
+        "status": "Análise",
+        "totalTickets": 6
+    },
+    {
+        "distribuidora": "CEEE",
+        "status": "Tempo excedido",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "GO",
+        "status": "Tempo excedido",
+        "totalTickets": 24
+    },
+    {
+        "distribuidora": "GO",
+        "status": "Concluído",
+        "totalTickets": 9
+    },
+    {
+        "distribuidora": "GO",
+        "status": "Análise",
+        "totalTickets": 6
+    },
+    {
+        "distribuidora": "GO",
+        "status": "Novo",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "MA",
+        "status": "Concluído",
+        "totalTickets": 16
+    },
+    {
+        "distribuidora": "MA",
+        "status": "Análise",
+        "totalTickets": 9
+    },
+    {
+        "distribuidora": "MA",
+        "status": "Tempo excedido",
+        "totalTickets": 6
+    },
+    {
+        "distribuidora": "PA",
+        "status": "Concluído",
+        "totalTickets": 26
+    },
+    {
+        "distribuidora": "PA",
+        "status": "Tempo excedido",
+        "totalTickets": 23
+    },
+    {
+        "distribuidora": "PA",
+        "status": "Análise",
+        "totalTickets": 6
+    },
+    {
+        "distribuidora": "PI",
+        "status": "Análise",
+        "totalTickets": 39
+    },
+    {
+        "distribuidora": "PI",
+        "status": "Tempo excedido",
+        "totalTickets": 25
+    },
+    {
+        "distribuidora": "PI",
+        "status": "Concluído",
+        "totalTickets": 22
+    },
+    {
+        "distribuidora": "PI",
+        "status": "Novo",
+        "totalTickets": 3
+    }
+]

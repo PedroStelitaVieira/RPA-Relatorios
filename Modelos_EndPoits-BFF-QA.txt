@@ -1,0 +1,4 @@
+https://delfos.appsdevqa.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/status-distribuidora
+https://delfos.appsdevqa.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/indicador-distribuidora
+https://delfos.appsdevqa.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/status-indicador
+https://delfos.appsdevqa.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/tmr-distribuidora-indicador

@@ -1,0 +1,2631 @@
+[
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "CEEE",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "06/03/2026 08:38:21",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Novo",
+        "atribuidoPara": [
+            "DIOGO PEREIRA MORALES",
+            "Raquel Da Silva"
+        ],
+        "encaminhadoPara": [
+            "Isabela Rodrigues Saldanha"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "PA",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "06/03/2026 08:38:19",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Novo",
+        "atribuidoPara": [
+            "Jorge Luiz Castro De Miranda Sampaio"
+        ],
+        "encaminhadoPara": [
+            "Eliane Rafaela Melo Correa"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "PA",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "06/03/2026 08:35:32",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Novo",
+        "atribuidoPara": [
+            "Viviana Silva de Oliveira"
+        ],
+        "encaminhadoPara": [
+            "Eliane Rafaela Melo Correa"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "CEEE",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "06/03/2026 08:27:47",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Análise",
+        "atribuidoPara": [
+            "LUCAS BOFF DE ALMEIDA",
+            "Raquel Da Silva"
+        ],
+        "encaminhadoPara": [
+            "Isabela Rodrigues Saldanha"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "GO",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "06/03/2026 08:26:57",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Novo",
+        "atribuidoPara": [
+            "SHAYENE APARECIDA DAS DORES CRUZ"
+        ],
+        "encaminhadoPara": [
+            "Hugo Leandro Ferreira"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "GO",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "06/03/2026 08:26:27",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Novo",
+        "atribuidoPara": [
+            "SHAYENE APARECIDA DAS DORES CRUZ"
+        ],
+        "encaminhadoPara": [
+            "Hugo Leandro Ferreira"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "GO",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "06/03/2026 08:25:54",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Novo",
+        "atribuidoPara": [
+            "EDSON OLIVEIRA SOBRAL JUNIOR"
+        ],
+        "encaminhadoPara": [
+            "Hugo Leandro Ferreira"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "GO",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "06/03/2026 08:24:47",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Novo",
+        "atribuidoPara": [
+            "ALINE OLIVEIRA DE SOUZA LIMA"
+        ],
+        "encaminhadoPara": [
+            "Hugo Leandro Ferreira"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "PA",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "06/03/2026 08:23:08",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Novo",
+        "atribuidoPara": [
+            "Juliana Souza Lima"
+        ],
+        "encaminhadoPara": [
+            "Eliane Rafaela Melo Correa"
+        ]
+    },
+    {
+        "ticket": "116483299",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 16:18:55",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Novo",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado"
+        ]
+    },
+    {
+        "ticket": "116478564",
+        "distribuidora": "PA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 16:17:01",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Antonia Jamylle Soares Vieira"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado"
+        ]
+    },
+    {
+        "ticket": "116478992",
+        "distribuidora": "PA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 16:15:33",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Análise",
+        "atribuidoPara": [
+            "Antonia Jamylle Soares Vieira"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado"
+        ]
+    },
+    {
+        "ticket": "116479528",
+        "distribuidora": "PA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 16:13:22",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Antonia Jamylle Soares Vieira"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado"
+        ]
+    },
+    {
+        "ticket": "116483106",
+        "distribuidora": "PA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 16:12:13",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Antonia Jamylle Soares Vieira"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado"
+        ]
+    },
+    {
+        "ticket": "116481398",
+        "distribuidora": "MA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 16:05:37",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Análise",
+        "atribuidoPara": [
+            "Jessika Suelly Magalhaes De Farias",
+            "Roseanne Pinheiro Ferreira "
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116485121",
+        "distribuidora": "MA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 16:04:15",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Análise",
+        "atribuidoPara": [
+            "Jessika Suelly Magalhaes De Farias",
+            "Roseanne Pinheiro Ferreira "
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "72c01e4e-763a-4c96-872c-9430a7b649ec",
+        "distribuidora": "AL",
+        "modulo": "VOZ DO CLIENTE",
+        "indicador": "Risco a Imagem",
+        "dataAbertura": "05/03/2026 15:42:02",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "ALESSANDRA MYKAELLE INACIO CALHEIROS"
+        ],
+        "encaminhadoPara": [
+            "Patricia Reis Branco Moraes"
+        ]
+    },
+    {
+        "ticket": "116469528",
+        "distribuidora": "PA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 14:42:56",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Antonia Jamylle Soares Vieira"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado"
+        ]
+    },
+    {
+        "ticket": "116475129",
+        "distribuidora": "PA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 14:41:43",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Análise",
+        "atribuidoPara": [
+            "Antonia Jamylle Soares Vieira"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado"
+        ]
+    },
+    {
+        "ticket": "116476149",
+        "distribuidora": "PA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 14:40:29",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Antonia Jamylle Soares Vieira"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado"
+        ]
+    },
+    {
+        "ticket": "116467221",
+        "distribuidora": "PA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 14:38:07",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Análise",
+        "atribuidoPara": [
+            "Antonia Jamylle Soares Vieira"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado"
+        ]
+    },
+    {
+        "ticket": "116482200",
+        "distribuidora": "CEEE",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 14:36:51",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Análise",
+        "atribuidoPara": [
+            "Daniel Pinheiro Favero",
+            "Taís Dihl"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116468307",
+        "distribuidora": "PA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 14:36:21",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Antonia Jamylle Soares Vieira"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado"
+        ]
+    },
+    {
+        "ticket": "116481249",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 14:33:17",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Novo",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116481250",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 14:31:30",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Novo",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116479615",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 14:30:31",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Novo",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116468596",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 14:29:10",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Novo",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116468836",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 14:27:55",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Novo",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116467300",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 14:24:31",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Novo",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116467615",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 14:23:04",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Novo",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116469101",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 14:21:44",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Novo",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116468797",
+        "distribuidora": "CEEE",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 14:21:23",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Daniel Pinheiro Favero",
+            "Taís Dihl"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116470754",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 14:20:39",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Novo",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116477030",
+        "distribuidora": "CEEE",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 14:20:15",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Daniel Pinheiro Favero",
+            "Taís Dihl"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116467863",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 14:19:02",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Novo",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116470375",
+        "distribuidora": "MA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 14:17:26",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Jessika Suelly Magalhaes De Farias",
+            "Roseanne Pinheiro Ferreira "
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116466986",
+        "distribuidora": "MA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 14:16:06",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Análise",
+        "atribuidoPara": [
+            "Jessika Suelly Magalhaes De Farias",
+            "Roseanne Pinheiro Ferreira "
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116470373",
+        "distribuidora": "MA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "05/03/2026 14:14:49",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Análise",
+        "atribuidoPara": [
+            "Jessika Suelly Magalhaes De Farias",
+            "Roseanne Pinheiro Ferreira "
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "acfca7d2-f3c6-4e28-b8d5-3fb02104d4f0",
+        "distribuidora": "PA",
+        "modulo": "VOZ DO CLIENTE",
+        "indicador": "Comportamento Inadequado",
+        "dataAbertura": "05/03/2026 10:38:41",
+        "responsavelAbertura": "Danilo Costa do Nascimento",
+        "status": "Novo",
+        "atribuidoPara": [
+            "Antonio Deylon Lima Carneiro"
+        ],
+        "encaminhadoPara": [
+            "Marcia Milena Sousa Fernandes"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "GO",
+        "modulo": "CALL CENTER",
+        "indicador": "Fila INS Cliente",
+        "dataAbertura": "05/03/2026 10:25:19",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Andreza Campelo Araújo",
+            "ELIEL LIMA BARRADAS"
+        ],
+        "encaminhadoPara": [
+            "Daniel Pereira Ordones Lara",
+            "Ivan Cabral Barreto Filho"
+        ]
+    },
+    {
+        "ticket": "8ba1a1cc-d1e0-4cdb-9aeb-0638192d6fa9",
+        "distribuidora": "MA",
+        "modulo": "CALL CENTER",
+        "indicador": "Rechamadas",
+        "dataAbertura": "05/03/2026 10:24:24",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "DARLIANE CUTRIM DE SOUZA"
+        ],
+        "encaminhadoPara": [
+            "TIAGO ROBERTO BARBOSA",
+            "Vanessa Mendes Soares"
+        ]
+    },
+    {
+        "ticket": "76ba937f-a463-3394-b40d-e7125ca9e3b0",
+        "distribuidora": "PI",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "Clientes na agência",
+        "dataAbertura": "05/03/2026 09:28:19",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Ferdinan Pereira De Oliveira",
+            "Jozi Melri Soares de Aquino"
+        ],
+        "encaminhadoPara": [
+            "Lara Ravena Marques Veras"
+        ]
+    },
+    {
+        "ticket": "a1dc1db9-966d-30a0-b319-30b4f7e9f0c0",
+        "distribuidora": "PI",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "Clientes na agência",
+        "dataAbertura": "05/03/2026 09:25:55",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Ferdinan Pereira De Oliveira",
+            "Jozi Melri Soares de Aquino"
+        ],
+        "encaminhadoPara": [
+            "Lara Ravena Marques Veras"
+        ]
+    },
+    {
+        "ticket": "a465cb4c-7243-3b1d-8df6-2be442877fa0",
+        "distribuidora": "GO",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "Clientes na agência",
+        "dataAbertura": "05/03/2026 09:25:36",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Análise",
+        "atribuidoPara": [
+            "ALINE OLIVEIRA DE SOUZA LIMA"
+        ],
+        "encaminhadoPara": [
+            "ERICA CORREIA DE SANTANA",
+            "FERNANDA FALEIRO LIMA DE SOUSA",
+            "FERNANDO DE ALMEIDA LACERDA",
+            "RAYANE TERESINHA CANTARELLI SOBRINHO"
+        ]
+    },
+    {
+        "ticket": "6967db841aa259d3906e92f7",
+        "distribuidora": "PI",
+        "modulo": "NPS",
+        "indicador": "Tratativas detratores",
+        "dataAbertura": "05/03/2026 09:14:30",
+        "responsavelAbertura": "Matheus Paradinha",
+        "status": "Análise",
+        "atribuidoPara": [
+            "Larisse Pereira De Sousa"
+        ],
+        "encaminhadoPara": [
+            "Larisse Pereira De Sousa"
+        ]
+    },
+    {
+        "ticket": "c1c57e71-2914-3a4c-8fef-efe41e54a233",
+        "distribuidora": "CEEE",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "Clientes na agência",
+        "dataAbertura": "05/03/2026 09:12:19",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "LUCAS BOFF DE ALMEIDA",
+            "Raquel Da Silva"
+        ],
+        "encaminhadoPara": [
+            "Isabela Rodrigues Saldanha"
+        ]
+    },
+    {
+        "ticket": "69664e0b67aea60d13f4d652",
+        "distribuidora": "MA",
+        "modulo": "NPS",
+        "indicador": "Tratativas detratores",
+        "dataAbertura": "05/03/2026 09:06:01",
+        "responsavelAbertura": "Matheus Paradinha",
+        "status": "Análise",
+        "atribuidoPara": [
+            "Larisse Pereira De Sousa"
+        ],
+        "encaminhadoPara": [
+            "Larisse Pereira De Sousa"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "AL",
+        "modulo": "CALL CENTER",
+        "indicador": "Fila INS Cliente",
+        "dataAbertura": "05/03/2026 08:55:37",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Andreza Campelo Araújo",
+            "ELIEL LIMA BARRADAS"
+        ],
+        "encaminhadoPara": [
+            "Daniel Pereira Ordones Lara",
+            "Ivan Cabral Barreto Filho"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "CEEE",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "05/03/2026 08:46:00",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "LUCAS BOFF DE ALMEIDA",
+            "Raquel Da Silva"
+        ],
+        "encaminhadoPara": [
+            "Isabela Rodrigues Saldanha"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "MA",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "05/03/2026 08:42:07",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Damiana Costa Neta Neves",
+            "FLAVIO HENRIQUE CORREIA BEZERRA"
+        ],
+        "encaminhadoPara": [
+            "Raphael Fernando Sodre De Melo"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "PI",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "05/03/2026 08:39:56",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Marlon Manoel Gomes De Sousa"
+        ],
+        "encaminhadoPara": [
+            "Caio Cesar Nedopetalski",
+            "Daniel Pereira Ordones Lara",
+            "Jonathan Alexander Marques Santana",
+            "Nayra Araujo de Oliveira"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "GO",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "05/03/2026 08:33:07",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Análise",
+        "atribuidoPara": [
+            "ANA FLAVIA SANTOS RODRIGUES"
+        ],
+        "encaminhadoPara": [
+            "Hugo Leandro Ferreira"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "GO",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "05/03/2026 08:31:31",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "ANA CARINA PEREIRA FLORES"
+        ],
+        "encaminhadoPara": [
+            "Hugo Leandro Ferreira"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "GO",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "05/03/2026 08:30:08",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Jaqueline Adorno Patriota"
+        ],
+        "encaminhadoPara": [
+            "Daniel Pereira Ordones Lara",
+            "Hugo Leandro Ferreira",
+            "Jonathan Alexander Marques Santana"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "PA",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "05/03/2026 08:29:46",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Jorge Luiz Castro De Miranda Sampaio"
+        ],
+        "encaminhadoPara": [
+            "Eliane Rafaela Melo Correa"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "GO",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "05/03/2026 08:28:53",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Análise",
+        "atribuidoPara": [
+            "ANA FLAVIA SANTOS RODRIGUES"
+        ],
+        "encaminhadoPara": [
+            "Hugo Leandro Ferreira"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "GO",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "05/03/2026 08:27:04",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "SHAYENE APARECIDA DAS DORES CRUZ"
+        ],
+        "encaminhadoPara": [
+            "Hugo Leandro Ferreira"
+        ]
+    },
+    {
+        "ticket": "116424659",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "04/03/2026 15:55:55",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Giselle Colins Pereira Dias",
+            "Isa Queila Pereira De Mendonça",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116424660",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "04/03/2026 15:54:29",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Giselle Colins Pereira Dias",
+            "Isa Queila Pereira De Mendonça",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116426115",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "04/03/2026 15:51:13",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Giselle Colins Pereira Dias",
+            "Isa Queila Pereira De Mendonça",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116419642",
+        "distribuidora": "GO",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "04/03/2026 15:45:59",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Análise",
+        "atribuidoPara": [
+            "GABRIEL GARCIA WEIAND",
+            "Lara Leao Aguilar"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116416978",
+        "distribuidora": "GO",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "04/03/2026 15:42:49",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Análise",
+        "atribuidoPara": [
+            "GABRIEL GARCIA WEIAND",
+            "Lara Leao Aguilar"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Favorabilidade",
+        "dataAbertura": "04/03/2026 15:30:28",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Giselle Colins Pereira Dias",
+            "Isa Queila Pereira De Mendonça",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116420722",
+        "distribuidora": "PA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "04/03/2026 15:17:17",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Antonia Jamylle Soares Vieira"
+        ],
+        "encaminhadoPara": [
+            "Giselle Colins Pereira Dias",
+            "Luana Lorena Morais Furtado",
+            "Suelen Caldas Campos",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116414200",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "04/03/2026 15:14:40",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Carlos Hubert Cardeal De Oliveira",
+            "Giselle Colins Pereira Dias",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116413751",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "04/03/2026 15:11:07",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Carlos Hubert Cardeal De Oliveira",
+            "Giselle Colins Pereira Dias",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116413238",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "04/03/2026 15:07:49",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Carlos Hubert Cardeal De Oliveira",
+            "Giselle Colins Pereira Dias",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116414444",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "04/03/2026 15:01:23",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Carlos Hubert Cardeal De Oliveira",
+            "Giselle Colins Pereira Dias",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116415414",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "04/03/2026 14:59:54",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Carlos Hubert Cardeal De Oliveira",
+            "Giselle Colins Pereira Dias",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116424965",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "04/03/2026 14:58:20",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Carlos Hubert Cardeal De Oliveira",
+            "Giselle Colins Pereira Dias",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "2687ba35-5b73-4ae8-a497-724d258207e1",
+        "distribuidora": "PA",
+        "modulo": "CALL CENTER",
+        "indicador": "Rechamadas",
+        "dataAbertura": "04/03/2026 14:53:24",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Lilian Cristina Palheta Bastos "
+        ],
+        "encaminhadoPara": [
+            "Luciana Carmo Da Assuncao"
+        ]
+    },
+    {
+        "ticket": "116413920",
+        "distribuidora": "CEEE",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "04/03/2026 14:36:19",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Daniel Pinheiro Favero",
+            "Taís Dihl"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116414732",
+        "distribuidora": "CEEE",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "04/03/2026 14:34:17",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Daniel Pinheiro Favero",
+            "Taís Dihl"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116414852",
+        "distribuidora": "CEEE",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "04/03/2026 14:33:00",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Daniel Pinheiro Favero",
+            "Taís Dihl"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116415530",
+        "distribuidora": "CEEE",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "04/03/2026 14:31:36",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Daniel Pinheiro Favero",
+            "Taís Dihl"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116413190",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "04/03/2026 14:29:50",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116413538",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "04/03/2026 14:28:26",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116415036",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "04/03/2026 14:26:40",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116410393",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "04/03/2026 14:23:46",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116416027",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "04/03/2026 14:19:13",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "GO",
+        "modulo": "CALL CENTER",
+        "indicador": "Fila INS Cliente",
+        "dataAbertura": "04/03/2026 11:15:57",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Andreza Campelo Araújo",
+            "ELIEL LIMA BARRADAS"
+        ],
+        "encaminhadoPara": [
+            "Ivan Cabral Barreto Filho"
+        ]
+    },
+    {
+        "ticket": "f8edc25b-0ab9-3aa3-a583-b4304a4d13a0",
+        "distribuidora": "CEEE",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "Clientes na agência",
+        "dataAbertura": "04/03/2026 10:24:30",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "CAROLINE NEGLIA BISSIGO",
+            "LUCAS BOFF DE ALMEIDA"
+        ],
+        "encaminhadoPara": [
+            "Alessandro Da Silva Trindade"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "CEEE",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "04/03/2026 10:22:44",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "DIOGO PEREIRA MORALES",
+            "Raquel Da Silva"
+        ],
+        "encaminhadoPara": [
+            "Daniel Pereira Ordones Lara",
+            "Isabela Rodrigues Saldanha",
+            "Jonathan Alexander Marques Santana"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "GO",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "04/03/2026 10:20:56",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "ANA FLAVIA SANTOS RODRIGUES"
+        ],
+        "encaminhadoPara": [
+            "Daniel Pereira Ordones Lara",
+            "Jonathan Alexander Marques Santana"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "GO",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "04/03/2026 10:20:00",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "SHAYENE APARECIDA DAS DORES CRUZ"
+        ],
+        "encaminhadoPara": [
+            "CRISTIANE LOPES DE ALBUQUERQUE"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "dataAbertura": "04/03/2026 10:19:31",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Adailson do Rego Andrade",
+            "Isabella Maria Lucena Santos"
+        ],
+        "encaminhadoPara": [
+            "Olga Catarina Ferreira Coelho Silva"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "PI",
+        "modulo": "CALL CENTER",
+        "indicador": "Fila INS Cliente",
+        "dataAbertura": "04/03/2026 10:13:36",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Andreza Campelo Araújo",
+            "ELIEL LIMA BARRADAS"
+        ],
+        "encaminhadoPara": [
+            "Antonia Jamylle Soares Vieira",
+            "Daniel Pereira Ordones Lara",
+            "Ivan Cabral Barreto Filho",
+            "Lucianne Mayra Araujo De Sousa",
+            "Miguel Angelo Bazante Santos"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "MA",
+        "modulo": "CALL CENTER",
+        "indicador": "Fila INS Cliente",
+        "dataAbertura": "04/03/2026 09:25:41",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Andreza Campelo Araújo",
+            "ELIEL LIMA BARRADAS"
+        ],
+        "encaminhadoPara": [
+            "Antonio Deylon Lima Carneiro",
+            "Cintia Alves Da Luz",
+            "Ivan Cabral Barreto Filho",
+            "Lucianne Mayra Araujo De Sousa",
+            "Miguel Angelo Bazante Santos"
+        ]
+    },
+    {
+        "ticket": "64558452-83ae-3193-bb99-51feaf294a98",
+        "distribuidora": "PI",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "Clientes na agência",
+        "dataAbertura": "04/03/2026 09:03:29",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Ferdinan Pereira De Oliveira",
+            "Jozi Melri Soares de Aquino"
+        ],
+        "encaminhadoPara": [
+            "Mateus De Melo Araujo"
+        ]
+    },
+    {
+        "ticket": "ca2d7737-aa7a-3825-8581-706eda913e45",
+        "distribuidora": "PI",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "Clientes na agência",
+        "dataAbertura": "04/03/2026 08:47:02",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Ferdinan Pereira De Oliveira",
+            "Jozi Melri Soares de Aquino"
+        ],
+        "encaminhadoPara": [
+            "Mateus De Melo Araujo"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "PA",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento",
+        "dataAbertura": "04/03/2026 08:31:15",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Lilian Cristina Palheta Bastos "
+        ],
+        "encaminhadoPara": [
+            "Eliane Rafaela Melo Correa",
+            "Joao Pedro Gomes Da Silva"
+        ]
+    },
+    {
+        "ticket": "116373539",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 16:49:13",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Giselle Colins Pereira Dias",
+            "Isa Queila Pereira De Mendonça",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116368393",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 16:47:58",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Giselle Colins Pereira Dias",
+            "Isa Queila Pereira De Mendonça",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116377400",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 16:46:17",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116377401",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 16:44:52",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116383276",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 16:43:35",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116384078",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 16:42:07",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116384883",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 16:40:27",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116377402",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 16:37:15",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116383277",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 16:35:46",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116384965",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 16:32:14",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116381476",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 16:30:40",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "577b2756-a4fa-4719-93b7-88f13ab07cc6",
+        "distribuidora": "PA",
+        "modulo": "CALL CENTER",
+        "indicador": "Rechamadas",
+        "dataAbertura": "03/03/2026 16:12:45",
+        "responsavelAbertura": "Danilo Costa do Nascimento",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Juliana Souza Lima"
+        ],
+        "encaminhadoPara": [
+            "Gilliard Vaz De Oliveira"
+        ]
+    },
+    {
+        "ticket": "3a7aa2c3-c4bd-497d-84a8-7bd33f205d47",
+        "distribuidora": "PA",
+        "modulo": "CALL CENTER",
+        "indicador": "Rechamadas",
+        "dataAbertura": "03/03/2026 15:49:46",
+        "responsavelAbertura": "Danilo Costa do Nascimento",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Lilian Cristina Palheta Bastos "
+        ],
+        "encaminhadoPara": [
+            "Luciana Carmo Da Assuncao"
+        ]
+    },
+    {
+        "ticket": "116362582",
+        "distribuidora": "GO",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 15:45:06",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "GABRIEL GARCIA WEIAND",
+            "Lara Leao Aguilar"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "6df7c7d6-daa5-3268-90b1-23a165b7db8c",
+        "distribuidora": "PI",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "Clientes na agência",
+        "dataAbertura": "03/03/2026 15:32:28",
+        "responsavelAbertura": "Danilo Costa do Nascimento",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Ferdinan Pereira De Oliveira",
+            "Jozi Melri Soares de Aquino"
+        ],
+        "encaminhadoPara": [
+            "Mateus De Melo Araujo"
+        ]
+    },
+    {
+        "ticket": "819b5afe-7b6c-3a95-8cbe-2fdd2e9aeb04",
+        "distribuidora": "PI",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "Clientes na agência",
+        "dataAbertura": "03/03/2026 15:29:57",
+        "responsavelAbertura": "Danilo Costa do Nascimento",
+        "status": "Análise",
+        "atribuidoPara": [
+            "Ferdinan Pereira De Oliveira",
+            "Jozi Melri Soares de Aquino"
+        ],
+        "encaminhadoPara": [
+            "Mateus De Melo Araujo"
+        ]
+    },
+    {
+        "ticket": "1644b430-a4cf-3756-beba-9189df12e4b6",
+        "distribuidora": "CEEE",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "Clientes na agência",
+        "dataAbertura": "03/03/2026 14:51:08",
+        "responsavelAbertura": "Danilo Costa do Nascimento",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "CAROLINE NEGLIA BISSIGO",
+            "LUCAS BOFF DE ALMEIDA"
+        ],
+        "encaminhadoPara": [
+            "Alessandro Da Silva Trindade",
+            "Sergio Luiz Pinto de Castro Valinho"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Favorabilidade",
+        "dataAbertura": "03/03/2026 14:37:15",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Giselle Colins Pereira Dias",
+            "Julia Pessoa Gomes",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "dataAbertura": "03/03/2026 14:35:13",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Larissa Rodrigues Alves De Oliveira"
+        ],
+        "encaminhadoPara": [
+            "Giselle Colins Pereira Dias",
+            "Julia Pessoa Gomes",
+            "Olga Catarina Ferreira Coelho Silva"
+        ]
+    },
+    {
+        "ticket": "116367336",
+        "distribuidora": "PA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 14:28:57",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Antonia Jamylle Soares Vieira"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116366680",
+        "distribuidora": "PA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 14:27:49",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Antonia Jamylle Soares Vieira"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Suelen Caldas Campos",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116364266",
+        "distribuidora": "PA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 14:26:39",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Antonia Jamylle Soares Vieira"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116365722",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 14:24:48",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Carlos Hubert Cardeal De Oliveira",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116363533",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 14:23:40",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Giselle Colins Pereira Dias",
+            "Julia Pessoa Gomes",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116364811",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 14:22:33",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Giselle Colins Pereira Dias",
+            "Julia Pessoa Gomes",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116364725",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 14:20:59",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Carlos Hubert Cardeal De Oliveira",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116364034",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 14:20:02",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Carlos Hubert Cardeal De Oliveira",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116365099",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 14:19:05",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Carlos Hubert Cardeal De Oliveira",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116365723",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 14:17:53",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Carlos Hubert Cardeal De Oliveira",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116368258",
+        "distribuidora": "CEEE",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 14:16:14",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Análise",
+        "atribuidoPara": [
+            "Daniel Pinheiro Favero",
+            "Taís Dihl"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116365780",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 14:15:02",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Giselle Colins Pereira Dias",
+            "Isa Queila Pereira De Mendonça",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116362748",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 14:13:33",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Giselle Colins Pereira Dias",
+            "Isa Queila Pereira De Mendonça",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116363137",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 14:12:22",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Giselle Colins Pereira Dias",
+            "Isa Queila Pereira De Mendonça",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116363776",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 14:11:13",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Giselle Colins Pereira Dias",
+            "Isa Queila Pereira De Mendonça",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116365519",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 14:10:14",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Giselle Colins Pereira Dias",
+            "Isa Queila Pereira De Mendonça",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116366540",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 14:08:55",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116366187",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "03/03/2026 14:07:02",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Giselle Colins Pereira Dias",
+            "Isa Queila Pereira De Mendonça",
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "CEEE",
+        "modulo": "CALL CENTER",
+        "indicador": "Fila INS Cliente",
+        "dataAbertura": "03/03/2026 10:12:59",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Andreza Campelo Araújo",
+            "ELIEL LIMA BARRADAS"
+        ],
+        "encaminhadoPara": [
+            "Ivan Cabral Barreto Filho",
+            "Krisielli Noronha da Conceicao",
+            "Lucianne Mayra Araujo De Sousa",
+            "Miguel Angelo Bazante Santos"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "PI",
+        "modulo": "CALL CENTER",
+        "indicador": "Fila INS Cliente",
+        "dataAbertura": "03/03/2026 08:54:41",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Andreza Campelo Araújo",
+            "ELIEL LIMA BARRADAS"
+        ],
+        "encaminhadoPara": [
+            "Antonio Deylon Lima Carneiro",
+            "Ivan Cabral Barreto Filho",
+            "Lucianne Mayra Araujo De Sousa",
+            "Miguel Angelo Bazante Santos"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "MA",
+        "modulo": "CALL CENTER",
+        "indicador": "Fila INS Cliente",
+        "dataAbertura": "03/03/2026 08:53:35",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Andreza Campelo Araújo",
+            "ELIEL LIMA BARRADAS"
+        ],
+        "encaminhadoPara": [
+            "Antonio Deylon Lima Carneiro",
+            "Cintia Alves Da Luz",
+            "Ivan Cabral Barreto Filho",
+            "Lucianne Mayra Araujo De Sousa",
+            "Miguel Angelo Bazante Santos"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "GO",
+        "modulo": "CALL CENTER",
+        "indicador": "Fila INS Cliente",
+        "dataAbertura": "03/03/2026 08:42:59",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Andreza Campelo Araújo",
+            "ELIEL LIMA BARRADAS"
+        ],
+        "encaminhadoPara": [
+            "Daniel Pereira Ordones Lara",
+            "Ingrid Raylene Abreu Melo",
+            "Ivan Cabral Barreto Filho",
+            "Lucianne Mayra Araujo De Sousa",
+            "Miguel Angelo Bazante Santos"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "CEEE",
+        "modulo": "CALL CENTER",
+        "indicador": "Fila INS Cliente",
+        "dataAbertura": "02/03/2026 17:08:07",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Andreza Campelo Araújo",
+            "ELIEL LIMA BARRADAS"
+        ],
+        "encaminhadoPara": [
+            "Daniel Pereira Ordones Lara",
+            "Ivan Cabral Barreto Filho",
+            "Krisielli Noronha da Conceicao",
+            "Lucianne Mayra Araujo De Sousa",
+            "Miguel Angelo Bazante Santos"
+        ]
+    },
+    {
+        "ticket": "116329740",
+        "distribuidora": "PA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "02/03/2026 16:46:05",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Antonia Jamylle Soares Vieira"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116335210",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "02/03/2026 16:35:35",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Análise",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116322548",
+        "distribuidora": "GO",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "02/03/2026 16:23:08",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "GABRIEL GARCIA WEIAND",
+            "Lara Leao Aguilar"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116334062",
+        "distribuidora": "GO",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "02/03/2026 16:19:49",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Análise",
+        "atribuidoPara": [
+            "GABRIEL GARCIA WEIAND",
+            "Lara Leao Aguilar"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116339314",
+        "distribuidora": "MA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "02/03/2026 16:10:29",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Análise",
+        "atribuidoPara": [
+            "Jessika Suelly Magalhaes De Farias",
+            "Roseanne Pinheiro Ferreira "
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116339315",
+        "distribuidora": "MA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "02/03/2026 16:09:19",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Análise",
+        "atribuidoPara": [
+            "Jessika Suelly Magalhaes De Farias",
+            "Roseanne Pinheiro Ferreira "
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116326228",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "02/03/2026 14:43:24",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116321711",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "02/03/2026 14:42:03",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Análise",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116322261",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "02/03/2026 14:40:47",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116322576",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "02/03/2026 14:39:04",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Análise",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116323414",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "02/03/2026 14:35:45",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Análise",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116322260",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "02/03/2026 14:34:23",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Análise",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116323413",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "02/03/2026 14:32:27",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116323009",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "02/03/2026 14:30:16",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Análise",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "PI",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Favorabilidade",
+        "dataAbertura": "02/03/2026 14:25:19",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Diego Lopes Da Silva Alves",
+            "Tomé de Sousa"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116322589",
+        "distribuidora": "AL",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "02/03/2026 14:16:51",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Euridice Janaina Ferreira De Carvalho",
+            "Lays Angelica Peixoto Santos"
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116323229",
+        "distribuidora": "MA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "02/03/2026 14:14:54",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Análise",
+        "atribuidoPara": [
+            "Jessika Suelly Magalhaes De Farias",
+            "Roseanne Pinheiro Ferreira "
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116323733",
+        "distribuidora": "MA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "02/03/2026 14:13:14",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Jessika Suelly Magalhaes De Farias",
+            "Roseanne Pinheiro Ferreira "
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "116324207",
+        "distribuidora": "MA",
+        "modulo": "REPUTAÇÃO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "dataAbertura": "02/03/2026 14:10:25",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Concluído",
+        "atribuidoPara": [
+            "Jessika Suelly Magalhaes De Farias",
+            "Roseanne Pinheiro Ferreira "
+        ],
+        "encaminhadoPara": [
+            "Luana Lorena Morais Furtado",
+            "Valquiria Ferreira Da Silva"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "GO",
+        "modulo": "CALL CENTER",
+        "indicador": "Fila INS Cliente",
+        "dataAbertura": "02/03/2026 10:46:49",
+        "responsavelAbertura": "Andre Felipe de Sousa Area Leao",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Andreza Campelo Araújo",
+            "ELIEL LIMA BARRADAS"
+        ],
+        "encaminhadoPara": [
+            "Daniel Pereira Ordones Lara",
+            "Ivan Cabral Barreto Filho"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "AL",
+        "modulo": "CALL CENTER",
+        "indicador": "Fila INS Cliente",
+        "dataAbertura": "02/03/2026 09:49:25",
+        "responsavelAbertura": "Silvana de Sousa Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Andreza Campelo Araújo",
+            "ELIEL LIMA BARRADAS"
+        ],
+        "encaminhadoPara": [
+            "Daniel Pereira Ordones Lara",
+            "Ivan Cabral Barreto Filho"
+        ]
+    },
+    {
+        "ticket": "SISTÊMICO",
+        "distribuidora": "PA",
+        "modulo": "CALL CENTER",
+        "indicador": "Fila INS Cliente",
+        "dataAbertura": "02/03/2026 09:08:00",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "status": "Tempo excedido",
+        "atribuidoPara": [
+            "Andreza Campelo Araújo",
+            "ELIEL LIMA BARRADAS"
+        ],
+        "encaminhadoPara": [
+            "Antonio Deylon Lima Carneiro",
+            "Daniel Pereira Ordones Lara",
+            "Ivan Cabral Barreto Filho",
+            "Lucianne Mayra Araujo De Sousa",
+            "Miguel Angelo Bazante Santos"
+        ]
+    }
+]
