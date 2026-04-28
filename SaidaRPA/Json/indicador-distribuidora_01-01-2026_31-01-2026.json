@@ -15,16 +15,6 @@
         "totalTickets": 1
     },
     {
-        "distribuidora": "AL",
-        "indicador": "Risco a Imagem",
-        "totalTickets": 1
-    },
-    {
-        "distribuidora": "AL",
-        "indicador": "Tratativas detratores",
-        "totalTickets": 1
-    },
-    {
         "distribuidora": "CEA",
         "indicador": "Imprensa | Notícias de Impacto Negativo",
         "totalTickets": 13
@@ -37,21 +27,11 @@
     {
         "distribuidora": "CEEE",
         "indicador": "Fila INS Cliente",
-        "totalTickets": 10
-    },
-    {
-        "distribuidora": "CEEE",
-        "indicador": "Tratativas detratores",
-        "totalTickets": 3
+        "totalTickets": 9
     },
     {
         "distribuidora": "CEEE",
         "indicador": "Imprensa | Favorabilidade",
-        "totalTickets": 1
-    },
-    {
-        "distribuidora": "CEEE",
-        "indicador": "Rechamadas",
         "totalTickets": 1
     },
     {
@@ -71,11 +51,6 @@
     },
     {
         "distribuidora": "GO",
-        "indicador": "Tratativas detratores",
-        "totalTickets": 2
-    },
-    {
-        "distribuidora": "GO",
         "indicador": "Imprensa | Favorabilidade",
         "totalTickets": 1
     },
@@ -88,16 +63,6 @@
         "distribuidora": "MA",
         "indicador": "Fila INS Cliente",
         "totalTickets": 4
-    },
-    {
-        "distribuidora": "MA",
-        "indicador": "Tratativas detratores",
-        "totalTickets": 3
-    },
-    {
-        "distribuidora": "MA",
-        "indicador": "Comportamento Inadequado",
-        "totalTickets": 1
     },
     {
         "distribuidora": "PA",
@@ -115,11 +80,6 @@
         "totalTickets": 1
     },
     {
-        "distribuidora": "PA",
-        "indicador": "Tratativas detratores",
-        "totalTickets": 1
-    },
-    {
         "distribuidora": "PI",
         "indicador": "Imprensa | Notícias de Impacto Negativo",
         "totalTickets": 98
@@ -128,10 +88,5 @@
         "distribuidora": "PI",
         "indicador": "Fila INS Cliente",
         "totalTickets": 7
-    },
-    {
-        "distribuidora": "PI",
-        "indicador": "Tratativas detratores",
-        "totalTickets": 1
     }
 ]

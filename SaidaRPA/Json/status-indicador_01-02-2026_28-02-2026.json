@@ -21,13 +21,7 @@
         "distribuidora": "AL",
         "indicador": "Imprensa | Notícias de Impacto Negativo",
         "status": "Concluído",
-        "totalTickets": 26
-    },
-    {
-        "distribuidora": "AL",
-        "indicador": "Imprensa | Notícias de Impacto Negativo",
-        "status": "Análise",
-        "totalTickets": 1
+        "totalTickets": 27
     },
     {
         "distribuidora": "CEA",
@@ -50,20 +44,20 @@
     {
         "distribuidora": "CEEE",
         "indicador": "Fila INS Cliente",
-        "status": "Análise",
+        "status": "Concluído",
         "totalTickets": 1
     },
     {
         "distribuidora": "CEEE",
         "indicador": "Imprensa | Notícias de Impacto Negativo",
         "status": "Concluído",
-        "totalTickets": 28
+        "totalTickets": 32
     },
     {
         "distribuidora": "CEEE",
         "indicador": "Imprensa | Notícias de Impacto Negativo",
         "status": "Análise",
-        "totalTickets": 7
+        "totalTickets": 3
     },
     {
         "distribuidora": "CSA",
@@ -81,13 +75,7 @@
         "distribuidora": "GO",
         "indicador": "Imprensa | Notícias de Impacto Negativo",
         "status": "Concluído",
-        "totalTickets": 69
-    },
-    {
-        "distribuidora": "GO",
-        "indicador": "Imprensa | Notícias de Impacto Negativo",
-        "status": "Análise",
-        "totalTickets": 7
+        "totalTickets": 76
     },
     {
         "distribuidora": "GO",
@@ -111,13 +99,7 @@
         "distribuidora": "MA",
         "indicador": "Imprensa | Notícias de Impacto Negativo",
         "status": "Concluído",
-        "totalTickets": 41
-    },
-    {
-        "distribuidora": "MA",
-        "indicador": "Imprensa | Notícias de Impacto Negativo",
-        "status": "Análise",
-        "totalTickets": 7
+        "totalTickets": 48
     },
     {
         "distribuidora": "MA",
@@ -147,19 +129,7 @@
         "distribuidora": "PA",
         "indicador": "Imprensa | Notícias de Impacto Negativo",
         "status": "Concluído",
-        "totalTickets": 14
-    },
-    {
-        "distribuidora": "PA",
-        "indicador": "Imprensa | Notícias de Impacto Negativo",
-        "status": "Análise",
-        "totalTickets": 2
-    },
-    {
-        "distribuidora": "PA",
-        "indicador": "Imprensa | Notícias de Impacto Negativo",
-        "status": "Novo",
-        "totalTickets": 2
+        "totalTickets": 18
     },
     {
         "distribuidora": "PI",
@@ -176,19 +146,13 @@
     {
         "distribuidora": "PI",
         "indicador": "Imprensa | Notícias de Impacto Negativo",
-        "status": "Análise",
-        "totalTickets": 167
+        "status": "Concluído",
+        "totalTickets": 170
     },
     {
         "distribuidora": "PI",
         "indicador": "Imprensa | Notícias de Impacto Negativo",
         "status": "Tempo excedido",
         "totalTickets": 13
-    },
-    {
-        "distribuidora": "PI",
-        "indicador": "Imprensa | Notícias de Impacto Negativo",
-        "status": "Concluído",
-        "totalTickets": 3
     }
 ]

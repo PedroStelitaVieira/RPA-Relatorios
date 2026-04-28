@@ -1,0 +1,38 @@
+[
+    {
+        "distribuidora": "AL",
+        "indicador": "INS Atendimento | Agências",
+        "status": "Análise",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "INS Atendimento | Agências",
+        "status": "Novo",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "INS Atendimento | Agências",
+        "status": "Novo",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "INS Atendimento | Agências",
+        "status": "Novo",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "INS Atendimento | Agências",
+        "status": "Análise",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "INS Atendimento | Agências",
+        "status": "Novo",
+        "totalTickets": 2
+    }
+]

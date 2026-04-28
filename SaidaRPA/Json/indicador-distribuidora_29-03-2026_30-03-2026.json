@@ -1,0 +1,72 @@
+[
+    {
+        "distribuidora": "AL",
+        "indicador": "INS Atendimento | Agências",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Comportamento Inadequado",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "INS Atendimento | Agências",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Clientes na agência",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "INS Atendimento | Agências",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Clientes na agência",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "INS Atendimento | Agências",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Comportamento Inadequado",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Clientes na agência",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Fila INS Cliente",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "INS Atendimento | Agências",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Clientes na agência",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "INS Atendimento | Agências",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Fila INS Cliente",
+        "totalTickets": 1
+    }
+]

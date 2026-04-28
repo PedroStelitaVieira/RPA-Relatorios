@@ -1,0 +1,22 @@
+[
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Comportamento Inadequado",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Clientes na agência",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CSA",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Clientes na agência",
+        "totalTickets": 1
+    }
+]

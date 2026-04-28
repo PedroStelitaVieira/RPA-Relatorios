@@ -1,0 +1,112 @@
+[
+    {
+        "ticket": "4885",
+        "distribuidora": "GO",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento | Agências",
+        "dataAbertura": "16/03/2026 09:12:04",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "atribuidoPara": "ANA FLAVIA SANTOS RODRIGUES",
+        "encaminhadoPara": "Hugo Leandro Ferreira",
+        "status": "Novo"
+    },
+    {
+        "ticket": "4884",
+        "distribuidora": "GO",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento | Agências",
+        "dataAbertura": "16/03/2026 09:10:54",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "atribuidoPara": "ANA FLAVIA SANTOS RODRIGUES",
+        "encaminhadoPara": "Hugo Leandro Ferreira",
+        "status": "Novo"
+    },
+    {
+        "ticket": "4883",
+        "distribuidora": "AP",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento | Agências",
+        "dataAbertura": "16/03/2026 08:54:36",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "atribuidoPara": "Ubiratan Da Silva Ribeiro Junior",
+        "encaminhadoPara": "Joao Diogo Tagaha Marques Soares",
+        "status": "Novo"
+    },
+    {
+        "ticket": "4882",
+        "distribuidora": "MA",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento | Agências",
+        "dataAbertura": "16/03/2026 08:44:08",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "atribuidoPara": "Ezequiel Jose Reis Da Silveira",
+        "encaminhadoPara": "Raphael Fernando Sodre De Melo",
+        "status": "Novo"
+    },
+    {
+        "ticket": "4881",
+        "distribuidora": "MA",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento | Agências",
+        "dataAbertura": "16/03/2026 08:43:10",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "atribuidoPara": "FLAVIO HENRIQUE CORREIA BEZERRA",
+        "encaminhadoPara": "Raphael Fernando Sodre De Melo",
+        "status": "Análise"
+    },
+    {
+        "ticket": "4881",
+        "distribuidora": "MA",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento | Agências",
+        "dataAbertura": "16/03/2026 08:43:10",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "atribuidoPara": "Damiana Costa Neta Neves",
+        "encaminhadoPara": "Raphael Fernando Sodre De Melo",
+        "status": "Análise"
+    },
+    {
+        "ticket": "4880",
+        "distribuidora": "MA",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento | Agências",
+        "dataAbertura": "16/03/2026 08:42:01",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "atribuidoPara": "Iracijane Braga Pereira",
+        "encaminhadoPara": "Raphael Fernando Sodre De Melo",
+        "status": "Novo"
+    },
+    {
+        "ticket": "4879",
+        "distribuidora": "PA",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento | Agências",
+        "dataAbertura": "16/03/2026 08:40:21",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "atribuidoPara": "Jorge Luiz Castro De Miranda Sampaio",
+        "encaminhadoPara": "Eliane Rafaela Melo Correa",
+        "status": "Novo"
+    },
+    {
+        "ticket": "4878",
+        "distribuidora": "PA",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento | Agências",
+        "dataAbertura": "16/03/2026 08:39:04",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "atribuidoPara": "Juliana Souza Lima",
+        "encaminhadoPara": "Eliane Rafaela Melo Correa",
+        "status": "Novo"
+    },
+    {
+        "ticket": "4877",
+        "distribuidora": "AL",
+        "modulo": "ATENDIMENTO PRESENCIAL",
+        "indicador": "INS Atendimento | Agências",
+        "dataAbertura": "16/03/2026 08:36:43",
+        "responsavelAbertura": "Suellany Beatrice Oliveira e Silva",
+        "atribuidoPara": "Cleiton Adonias Da Silva",
+        "encaminhadoPara": "Deborah Santos Ballar",
+        "status": "Análise"
+    }
+]

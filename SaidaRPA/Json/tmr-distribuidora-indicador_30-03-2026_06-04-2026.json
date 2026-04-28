@@ -1,0 +1,197 @@
+[
+    {
+        "distribuidora": "AL",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 586.12
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Comportamento Inadequado",
+        "tempoMedioRespostaMin": 492.77
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Rechamadas",
+        "tempoMedioRespostaMin": 140.11
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "tempoMedioRespostaMin": 58.99
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "INS Atendimento | Agências",
+        "tempoMedioRespostaMin": 45.88
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Risco a Imagem",
+        "tempoMedioRespostaMin": 39.29
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "INS Atendimento | Agências",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "Comportamento Inadequado",
+        "tempoMedioRespostaMin": 247.08
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "Risco a Imagem",
+        "tempoMedioRespostaMin": 132.54
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "Rechamadas",
+        "tempoMedioRespostaMin": 18.8
+    },
+    {
+        "distribuidora": "CEA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 735.09
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 35.37
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 23.15
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Clientes na agência",
+        "tempoMedioRespostaMin": 16.38
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "INS Atendimento | Agências",
+        "tempoMedioRespostaMin": 8.31
+    },
+    {
+        "distribuidora": "CSA",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "tempoMedioRespostaMin": 34.73
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Comportamento Inadequado",
+        "tempoMedioRespostaMin": 319.15
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Rechamadas",
+        "tempoMedioRespostaMin": 125.28
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 88.14
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 74.69
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "INS Atendimento | Agências",
+        "tempoMedioRespostaMin": 59.99
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Clientes na agência",
+        "tempoMedioRespostaMin": 19.43
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Clientes na agência",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Rechamadas",
+        "tempoMedioRespostaMin": 388.16
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Comportamento Inadequado",
+        "tempoMedioRespostaMin": 204.17
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 86.49
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 79.18
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Risco a Imagem",
+        "tempoMedioRespostaMin": 79.13
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "INS Atendimento | Agências",
+        "tempoMedioRespostaMin": 19.34
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "tempoMedioRespostaMin": null
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Rechamadas",
+        "tempoMedioRespostaMin": 294.98
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 151.11
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "INS Atendimento | Agências",
+        "tempoMedioRespostaMin": 132.92
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 18.52
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "tempoMedioRespostaMin": 245.3
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Rechamadas",
+        "tempoMedioRespostaMin": 126.25
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Fila INS Cliente",
+        "tempoMedioRespostaMin": 78.45
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Clientes na agência",
+        "tempoMedioRespostaMin": 52.27
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "INS Atendimento | Agências",
+        "tempoMedioRespostaMin": 23.52
+    }
+]

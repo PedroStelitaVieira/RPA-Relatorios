@@ -1,0 +1,87 @@
+[
+    {
+        "distribuidora": "AL",
+        "status": "Novo",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "AP",
+        "status": "Tempo excedido",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CEEE",
+        "status": "Tempo excedido",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "CEEE",
+        "status": "Análise",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "GO",
+        "status": "Tempo excedido",
+        "totalTickets": 9
+    },
+    {
+        "distribuidora": "GO",
+        "status": "Novo",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "GO",
+        "status": "Análise",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "MA",
+        "status": "Análise",
+        "totalTickets": 10
+    },
+    {
+        "distribuidora": "MA",
+        "status": "Tempo excedido",
+        "totalTickets": 6
+    },
+    {
+        "distribuidora": "MA",
+        "status": "Concluído",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "MA",
+        "status": "Novo",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "PA",
+        "status": "Análise",
+        "totalTickets": 11
+    },
+    {
+        "distribuidora": "PA",
+        "status": "Tempo excedido",
+        "totalTickets": 5
+    },
+    {
+        "distribuidora": "PA",
+        "status": "Novo",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "PI",
+        "status": "Análise",
+        "totalTickets": 8
+    },
+    {
+        "distribuidora": "PI",
+        "status": "Concluído",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "PI",
+        "status": "Tempo excedido",
+        "totalTickets": 1
+    }
+]

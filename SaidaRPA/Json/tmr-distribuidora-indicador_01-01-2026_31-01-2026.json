@@ -6,16 +6,6 @@
     },
     {
         "distribuidora": "AL",
-        "indicador": "Risco a Imagem",
-        "tempoMedioRespostaMin": null
-    },
-    {
-        "distribuidora": "AL",
-        "indicador": "Tratativas detratores",
-        "tempoMedioRespostaMin": null
-    },
-    {
-        "distribuidora": "AL",
         "indicador": "Imprensa | Notícias de Impacto Negativo",
         "tempoMedioRespostaMin": 520.78
     },
@@ -31,18 +21,13 @@
     },
     {
         "distribuidora": "CEEE",
-        "indicador": "Tratativas detratores",
-        "tempoMedioRespostaMin": 5541.47
-    },
-    {
-        "distribuidora": "CEEE",
         "indicador": "Imprensa | Notícias de Impacto Negativo",
         "tempoMedioRespostaMin": 164.93
     },
     {
         "distribuidora": "CEEE",
         "indicador": "Fila INS Cliente",
-        "tempoMedioRespostaMin": 119.61
+        "tempoMedioRespostaMin": 143.13
     },
     {
         "distribuidora": "CEEE",
@@ -50,19 +35,9 @@
         "tempoMedioRespostaMin": 16.95
     },
     {
-        "distribuidora": "CEEE",
-        "indicador": "Rechamadas",
-        "tempoMedioRespostaMin": 0.72
-    },
-    {
         "distribuidora": "CSA",
         "indicador": "Imprensa | Notícias de Impacto Negativo",
         "tempoMedioRespostaMin": 1162.41
-    },
-    {
-        "distribuidora": "GO",
-        "indicador": "Tratativas detratores",
-        "tempoMedioRespostaMin": 20108.69
     },
     {
         "distribuidora": "GO",
@@ -81,16 +56,6 @@
     },
     {
         "distribuidora": "MA",
-        "indicador": "Tratativas detratores",
-        "tempoMedioRespostaMin": null
-    },
-    {
-        "distribuidora": "MA",
-        "indicador": "Comportamento Inadequado",
-        "tempoMedioRespostaMin": null
-    },
-    {
-        "distribuidora": "MA",
         "indicador": "Imprensa | Notícias de Impacto Negativo",
         "tempoMedioRespostaMin": 209.16
     },
@@ -101,28 +66,18 @@
     },
     {
         "distribuidora": "PA",
-        "indicador": "Redes Sociais | Menções Negativas",
-        "tempoMedioRespostaMin": null
-    },
-    {
-        "distribuidora": "PA",
         "indicador": "Imprensa | Notícias de Impacto Negativo",
         "tempoMedioRespostaMin": null
     },
     {
         "distribuidora": "PA",
-        "indicador": "Tratativas detratores",
+        "indicador": "Redes Sociais | Menções Negativas",
         "tempoMedioRespostaMin": null
     },
     {
         "distribuidora": "PA",
         "indicador": "Fila INS Cliente",
         "tempoMedioRespostaMin": 160.09
-    },
-    {
-        "distribuidora": "PI",
-        "indicador": "Tratativas detratores",
-        "tempoMedioRespostaMin": null
     },
     {
         "distribuidora": "PI",

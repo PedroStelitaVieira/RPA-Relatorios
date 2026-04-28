@@ -1,7 +1,7 @@
 {
     "date_filter_mode": "custom",
-    "custom_start_date": "2026-03-02",
-    "custom_end_date": "2026-03-10",
+    "custom_start_date": "2026-04-01",
+    "custom_end_date": "2026-04-26",
     "endpoints": [
         {
             "identifier": "status-distribuidora",

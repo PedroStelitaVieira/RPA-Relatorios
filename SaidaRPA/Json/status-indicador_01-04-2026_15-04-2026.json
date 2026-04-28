@@ -1,0 +1,680 @@
+[
+    {
+        "distribuidora": "AL",
+        "indicador": "Comportamento Inadequado",
+        "status": "Concluído",
+        "totalTickets": 13
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Comportamento Inadequado",
+        "status": "Novo",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Fila INS Cliente",
+        "status": "Concluído",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Fila INS Cliente",
+        "status": "Tempo excedido",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Tempo excedido",
+        "totalTickets": 19
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Concluído",
+        "totalTickets": 9
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Análise",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Novo",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "INS Atendimento | Agências",
+        "status": "Concluído",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Rechamadas",
+        "status": "Concluído",
+        "totalTickets": 5
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Rechamadas",
+        "status": "Análise",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "status": "Concluído",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Risco a Imagem",
+        "status": "Análise",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Risco a Imagem",
+        "status": "Concluído",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Risco a Vida",
+        "status": "Concluído",
+        "totalTickets": 9
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Risco a Vida",
+        "status": "Análise",
+        "totalTickets": 6
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Risco a Vida",
+        "status": "Tempo excedido",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "Comportamento Inadequado",
+        "status": "Concluído",
+        "totalTickets": 10
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "Comportamento Inadequado",
+        "status": "Tempo excedido",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "INS Atendimento | Agências",
+        "status": "Tempo excedido",
+        "totalTickets": 5
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "Rechamadas",
+        "status": "Análise",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "Rechamadas",
+        "status": "Concluído",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "Risco a Imagem",
+        "status": "Tempo excedido",
+        "totalTickets": 6
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "Risco a Imagem",
+        "status": "Concluído",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "Risco a Imagem",
+        "status": "Análise",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "Risco a Vida",
+        "status": "Análise",
+        "totalTickets": 9
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "Risco a Vida",
+        "status": "Concluído",
+        "totalTickets": 5
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "Risco a Vida",
+        "status": "Tempo excedido",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "CEA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Concluído",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "CEA",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "status": "Tempo excedido",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Clientes na agência",
+        "status": "Tempo excedido",
+        "totalTickets": 7
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Clientes na agência",
+        "status": "Concluído",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Comportamento Inadequado",
+        "status": "Concluído",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Comportamento Inadequado",
+        "status": "Tempo excedido",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Fila INS Cliente",
+        "status": "Concluído",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Fila INS Cliente",
+        "status": "Tempo excedido",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Concluído",
+        "totalTickets": 24
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Análise",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "INS Atendimento | Agências",
+        "status": "Tempo excedido",
+        "totalTickets": 19
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "INS Atendimento | Agências",
+        "status": "Concluído",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Rechamadas",
+        "status": "Tempo excedido",
+        "totalTickets": 6
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Rechamadas",
+        "status": "Análise",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Risco a Vida",
+        "status": "Análise",
+        "totalTickets": 7
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Risco a Vida",
+        "status": "Concluído",
+        "totalTickets": 5
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Risco a Vida",
+        "status": "Tempo excedido",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "CSA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Concluído",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "CSA",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "status": "Concluído",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Clientes na agência",
+        "status": "Tempo excedido",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Comportamento Inadequado",
+        "status": "Concluído",
+        "totalTickets": 8
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Comportamento Inadequado",
+        "status": "Novo",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Fila INS Cliente",
+        "status": "Tempo excedido",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Fila INS Cliente",
+        "status": "Concluído",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Concluído",
+        "totalTickets": 40
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Análise",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "INS Atendimento | Agências",
+        "status": "Tempo excedido",
+        "totalTickets": 55
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "INS Atendimento | Agências",
+        "status": "Concluído",
+        "totalTickets": 11
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "INS Atendimento | Agências",
+        "status": "Análise",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Rechamadas",
+        "status": "Tempo excedido",
+        "totalTickets": 7
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Rechamadas",
+        "status": "Análise",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Rechamadas",
+        "status": "Concluído",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Risco a Vida",
+        "status": "Análise",
+        "totalTickets": 9
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Risco a Vida",
+        "status": "Concluído",
+        "totalTickets": 5
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Risco a Vida",
+        "status": "Tempo excedido",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Tratativas detratores",
+        "status": "Análise",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Clientes na agência",
+        "status": "Tempo excedido",
+        "totalTickets": 5
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Comportamento Inadequado",
+        "status": "Concluído",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Fila INS Cliente",
+        "status": "Tempo excedido",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Fila INS Cliente",
+        "status": "Concluído",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Concluído",
+        "totalTickets": 25
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Análise",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "INS Atendimento | Agências",
+        "status": "Concluído",
+        "totalTickets": 23
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "INS Atendimento | Agências",
+        "status": "Tempo excedido",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Rechamadas",
+        "status": "Concluído",
+        "totalTickets": 11
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Rechamadas",
+        "status": "Análise",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Rechamadas",
+        "status": "Tempo excedido",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Risco a Imagem",
+        "status": "Análise",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Risco a Imagem",
+        "status": "Concluído",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Risco a Vida",
+        "status": "Análise",
+        "totalTickets": 8
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Risco a Vida",
+        "status": "Concluído",
+        "totalTickets": 8
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Comportamento Inadequado",
+        "status": "Concluído",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Fila INS Cliente",
+        "status": "Tempo excedido",
+        "totalTickets": 5
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Fila INS Cliente",
+        "status": "Concluído",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Concluído",
+        "totalTickets": 24
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Tempo excedido",
+        "totalTickets": 20
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Novo",
+        "totalTickets": 6
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Análise",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "INS Atendimento | Agências",
+        "status": "Tempo excedido",
+        "totalTickets": 10
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "INS Atendimento | Agências",
+        "status": "Concluído",
+        "totalTickets": 9
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Rechamadas",
+        "status": "Concluído",
+        "totalTickets": 16
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Rechamadas",
+        "status": "Tempo excedido",
+        "totalTickets": 12
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Rechamadas",
+        "status": "Análise",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "status": "Tempo excedido",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Risco a Imagem",
+        "status": "Tempo excedido",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Risco a Vida",
+        "status": "Concluído",
+        "totalTickets": 7
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Risco a Vida",
+        "status": "Análise",
+        "totalTickets": 7
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Risco a Vida",
+        "status": "Tempo excedido",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Clientes na agência",
+        "status": "Concluído",
+        "totalTickets": 11
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Clientes na agência",
+        "status": "Tempo excedido",
+        "totalTickets": 9
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Comportamento Inadequado",
+        "status": "Concluído",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Fila INS Cliente",
+        "status": "Concluído",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Fila INS Cliente",
+        "status": "Tempo excedido",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Concluído",
+        "totalTickets": 33
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Análise",
+        "totalTickets": 33
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "status": "Tempo excedido",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "INS Atendimento | Agências",
+        "status": "Concluído",
+        "totalTickets": 13
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "INS Atendimento | Agências",
+        "status": "Tempo excedido",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Rechamadas",
+        "status": "Concluído",
+        "totalTickets": 5
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Rechamadas",
+        "status": "Tempo excedido",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Rechamadas",
+        "status": "Análise",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Risco a Imagem",
+        "status": "Concluído",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Risco a Vida",
+        "status": "Análise",
+        "totalTickets": 9
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Risco a Vida",
+        "status": "Tempo excedido",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Risco a Vida",
+        "status": "Concluído",
+        "totalTickets": 3
+    }
+]

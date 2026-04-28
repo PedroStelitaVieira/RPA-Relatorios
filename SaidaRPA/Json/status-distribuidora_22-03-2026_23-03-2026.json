@@ -1,0 +1,17 @@
+[
+    {
+        "distribuidora": "CEEE",
+        "status": "Novo",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "CSA",
+        "status": "Novo",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "GO",
+        "status": "Novo",
+        "totalTickets": 1
+    }
+]

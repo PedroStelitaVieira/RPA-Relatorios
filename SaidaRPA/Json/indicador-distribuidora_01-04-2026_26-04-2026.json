@@ -1,0 +1,312 @@
+[
+    {
+        "distribuidora": "AL",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 48
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Risco a Vida",
+        "totalTickets": 28
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Comportamento Inadequado",
+        "totalTickets": 20
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Rechamadas",
+        "totalTickets": 14
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Risco a Imagem",
+        "totalTickets": 9
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "INS Atendimento | Agências",
+        "totalTickets": 6
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Fila INS Cliente",
+        "totalTickets": 6
+    },
+    {
+        "distribuidora": "AL",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "Risco a Vida",
+        "totalTickets": 28
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "Risco a Imagem",
+        "totalTickets": 13
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "Comportamento Inadequado",
+        "totalTickets": 13
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "INS Atendimento | Agências",
+        "totalTickets": 8
+    },
+    {
+        "distribuidora": "AP",
+        "indicador": "Rechamadas",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "CEA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 5
+    },
+    {
+        "distribuidora": "CEA",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 38
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Risco a Vida",
+        "totalTickets": 28
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "INS Atendimento | Agências",
+        "totalTickets": 21
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Rechamadas",
+        "totalTickets": 20
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Clientes na agência",
+        "totalTickets": 9
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Fila INS Cliente",
+        "totalTickets": 6
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Comportamento Inadequado",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Risco a Imagem",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CEEE",
+        "indicador": "Tratativas detratores",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "CSA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 5
+    },
+    {
+        "distribuidora": "CSA",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "INS Atendimento | Agências",
+        "totalTickets": 97
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 72
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Risco a Vida",
+        "totalTickets": 28
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Rechamadas",
+        "totalTickets": 27
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Comportamento Inadequado",
+        "totalTickets": 21
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Clientes na agência",
+        "totalTickets": 9
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Fila INS Cliente",
+        "totalTickets": 5
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Risco a Imagem",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "GO",
+        "indicador": "INS Atendimento | Postos Credenciados",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 61
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "INS Atendimento | Agências",
+        "totalTickets": 37
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Rechamadas",
+        "totalTickets": 28
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Risco a Vida",
+        "totalTickets": 28
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Clientes na agência",
+        "totalTickets": 8
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Comportamento Inadequado",
+        "totalTickets": 7
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Fila INS Cliente",
+        "totalTickets": 7
+    },
+    {
+        "distribuidora": "MA",
+        "indicador": "Risco a Imagem",
+        "totalTickets": 4
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 75
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Rechamadas",
+        "totalTickets": 46
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Risco a Vida",
+        "totalTickets": 28
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "INS Atendimento | Agências",
+        "totalTickets": 23
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Fila INS Cliente",
+        "totalTickets": 9
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Risco a Imagem",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Redes Sociais | Menções Negativas",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Comportamento Inadequado",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "INS Atendimento | Postos Credenciados",
+        "totalTickets": 2
+    },
+    {
+        "distribuidora": "PA",
+        "indicador": "Tratativas detratores",
+        "totalTickets": 1
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Imprensa | Notícias de Impacto Negativo",
+        "totalTickets": 144
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Clientes na agência",
+        "totalTickets": 34
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Risco a Vida",
+        "totalTickets": 28
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "INS Atendimento | Agências",
+        "totalTickets": 23
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Rechamadas",
+        "totalTickets": 22
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Fila INS Cliente",
+        "totalTickets": 6
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Comportamento Inadequado",
+        "totalTickets": 3
+    },
+    {
+        "distribuidora": "PI",
+        "indicador": "Risco a Imagem",
+        "totalTickets": 2
+    }
+]
