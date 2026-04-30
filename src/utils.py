@@ -7,7 +7,10 @@ def setup_logger(name=__name__, log_file='execution.log', level=logging.INFO):
     """Function to setup as many loggers as you want"""
     formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
     
-    handler = logging.FileHandler(log_file)        
+    # Ensure log file is created in the project root
+    log_path = get_project_root() / log_file
+    
+    handler = logging.FileHandler(str(log_path))        
     handler.setFormatter(formatter)
     
     console_handler = logging.StreamHandler()
@@ -23,8 +26,12 @@ def setup_logger(name=__name__, log_file='execution.log', level=logging.INFO):
         
     return logger
 
+import sys
+
 def get_project_root() -> Path:
     """Returns the project root directory."""
+    if getattr(sys, 'frozen', False):
+        return Path(sys.executable).parent
     return Path(__file__).parent.parent
 
 def ensure_directories(paths: list[Path]):

@@ -2948,3 +2948,99 @@
 2026-04-27 09:40:23,623 INFO Converted detalhado_01-04-2026_26-04-2026.json to Excel at c:\Users\Public\Downloads\EQT_LAB\Delfos\RPA_RelatoriosBD\Consulta-via-BFF\SaidaRPA\Excel\detalhado_01-04-2026_26-04-2026.xlsx
 2026-04-27 09:40:23,625 INFO Waiting 5 seconds before next request...
 2026-04-27 09:40:28,626 INFO Execution finished. Success: 5, Failures: 0
+2026-04-30 15:58:08,798 INFO Starting RPA Report Generator...
+2026-04-30 15:58:08,812 INFO Date Filter Mode: monthly
+2026-04-30 15:58:08,812 WARNING No endpoints found in configuration.
+2026-04-30 15:58:16,851 INFO Starting RPA Report Generator...
+2026-04-30 15:58:16,855 INFO Date Filter Mode: daily
+2026-04-30 15:58:16,858 WARNING No endpoints found in configuration.
+2026-04-30 16:29:08,407 INFO Starting RPA Report Generator...
+2026-04-30 16:29:08,407 INFO Date Filter Mode: weekly
+2026-04-30 16:29:08,407 INFO Using provided reference date: 2026-04-30
+2026-04-30 16:29:08,407 INFO Calculated Date Range (weekly): Start=2026-04-23, End=2026-04-30
+2026-04-30 16:29:08,421 INFO Processing endpoint: status-distribuidora
+2026-04-30 16:29:08,422 INFO Fetching data from: https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/status-distribuidora
+2026-04-30 16:29:08,925 INFO Successfully fetched data from https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/status-distribuidora?dtStart=2026-04-23&dtEnd=2026-04-30
+2026-04-30 16:29:08,928 INFO Saved JSON for status-distribuidora at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Json\status-distribuidora_23-04-2026_30-04-2026.json
+2026-04-30 16:29:09,117 INFO Converted status-distribuidora_23-04-2026_30-04-2026.json to Excel at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Excel\status-distribuidora_23-04-2026_30-04-2026.xlsx
+2026-04-30 16:29:09,117 INFO Waiting 5 seconds before next request...
+2026-04-30 16:29:14,120 INFO Processing endpoint: indicador-distribuidora
+2026-04-30 16:29:14,120 INFO Fetching data from: https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/indicador-distribuidora
+2026-04-30 16:29:14,281 INFO Successfully fetched data from https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/indicador-distribuidora?dtStart=2026-04-23&dtEnd=2026-04-30
+2026-04-30 16:29:14,284 INFO Saved JSON for indicador-distribuidora at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Json\indicador-distribuidora_23-04-2026_30-04-2026.json
+2026-04-30 16:29:14,316 INFO Converted indicador-distribuidora_23-04-2026_30-04-2026.json to Excel at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Excel\indicador-distribuidora_23-04-2026_30-04-2026.xlsx
+2026-04-30 16:29:14,316 INFO Waiting 5 seconds before next request...
+2026-04-30 16:29:19,320 INFO Processing endpoint: status-indicador
+2026-04-30 16:29:19,320 INFO Fetching data from: https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/status-indicador
+2026-04-30 16:29:19,484 INFO Successfully fetched data from https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/status-indicador?dtStart=2026-04-23&dtEnd=2026-04-30
+2026-04-30 16:29:19,486 INFO Saved JSON for status-indicador at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Json\status-indicador_23-04-2026_30-04-2026.json
+2026-04-30 16:29:19,523 INFO Converted status-indicador_23-04-2026_30-04-2026.json to Excel at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Excel\status-indicador_23-04-2026_30-04-2026.xlsx
+2026-04-30 16:29:19,523 INFO Waiting 5 seconds before next request...
+2026-04-30 16:29:24,525 INFO Processing endpoint: tmr-distribuidora-indicador
+2026-04-30 16:29:24,525 INFO Fetching data from: https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/tmr-distribuidora-indicador
+2026-04-30 16:29:24,693 INFO Successfully fetched data from https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/tmr-distribuidora-indicador?dtStart=2026-04-23&dtEnd=2026-04-30
+2026-04-30 16:29:24,693 INFO Saved JSON for tmr-distribuidora-indicador at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Json\tmr-distribuidora-indicador_23-04-2026_30-04-2026.json
+2026-04-30 16:29:24,719 INFO Converted tmr-distribuidora-indicador_23-04-2026_30-04-2026.json to Excel at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Excel\tmr-distribuidora-indicador_23-04-2026_30-04-2026.xlsx
+2026-04-30 16:29:24,719 INFO Waiting 5 seconds before next request...
+2026-04-30 16:29:29,723 INFO Processing endpoint: detalhado
+2026-04-30 16:29:29,723 INFO Fetching data from: https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/detalhado
+2026-04-30 16:29:32,001 INFO Successfully fetched data from https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/detalhado?dtStart=2026-04-23&dtEnd=2026-04-30
+2026-04-30 16:29:32,021 INFO Saved JSON for detalhado at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Json\detalhado_23-04-2026_30-04-2026.json
+2026-04-30 16:29:32,253 INFO Converted detalhado_23-04-2026_30-04-2026.json to Excel at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Excel\detalhado_23-04-2026_30-04-2026.xlsx
+2026-04-30 16:29:32,253 INFO Waiting 5 seconds before next request...
+2026-04-30 16:29:37,259 INFO Execution finished. Success: 5, Failures: 0
+2026-04-30 16:31:51,499 INFO Starting RPA Report Generator...
+2026-04-30 16:31:51,501 INFO Date Filter Mode: weekly
+2026-04-30 16:31:51,501 INFO Using provided reference date: 2026-04-30
+2026-04-30 16:31:51,501 INFO Calculated Date Range (weekly): Start=2026-04-23, End=2026-04-30
+2026-04-30 16:31:51,501 INFO Processing endpoint: status-distribuidora
+2026-04-30 16:31:51,506 INFO Fetching data from: https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/status-distribuidora
+2026-04-30 16:31:52,025 INFO Successfully fetched data from https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/status-distribuidora?dtStart=2026-04-23&dtEnd=2026-04-30
+2026-04-30 16:31:52,029 INFO Saved JSON for status-distribuidora at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Json\status-distribuidora_23-04-2026_30-04-2026.json
+2026-04-30 16:31:52,190 INFO Converted status-distribuidora_23-04-2026_30-04-2026.json to Excel at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Excel\status-distribuidora_23-04-2026_30-04-2026.xlsx
+2026-04-30 16:31:52,190 INFO Waiting 5 seconds before next request...
+2026-04-30 16:38:31,549 INFO Starting RPA Report Generator...
+2026-04-30 16:38:31,553 INFO Date Filter Mode: weekly
+2026-04-30 16:38:31,553 INFO Using provided reference date: 2026-04-30
+2026-04-30 16:38:31,553 INFO Calculated Date Range (weekly): Start=2026-04-23, End=2026-04-30
+2026-04-30 16:38:31,557 INFO Processing endpoint: status-distribuidora
+2026-04-30 16:38:31,558 INFO Fetching data from: https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/status-distribuidora
+2026-04-30 16:38:32,103 INFO Successfully fetched data from https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/status-distribuidora?dtStart=2026-04-23&dtEnd=2026-04-30
+2026-04-30 16:38:32,105 INFO Saved JSON for status-distribuidora at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Json\status-distribuidora_23-04-2026_30-04-2026.json
+2026-04-30 16:38:32,251 INFO Converted status-distribuidora_23-04-2026_30-04-2026.json to Excel at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Excel\status-distribuidora_23-04-2026_30-04-2026.xlsx
+2026-04-30 16:38:32,253 INFO Waiting 5 seconds before next request...
+2026-04-30 16:38:37,257 INFO Processing endpoint: indicador-distribuidora
+2026-04-30 16:38:37,257 INFO Fetching data from: https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/indicador-distribuidora
+2026-04-30 16:38:37,429 INFO Successfully fetched data from https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/indicador-distribuidora?dtStart=2026-04-23&dtEnd=2026-04-30
+2026-04-30 16:38:37,429 INFO Saved JSON for indicador-distribuidora at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Json\indicador-distribuidora_23-04-2026_30-04-2026.json
+2026-04-30 16:38:37,456 INFO Converted indicador-distribuidora_23-04-2026_30-04-2026.json to Excel at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Excel\indicador-distribuidora_23-04-2026_30-04-2026.xlsx
+2026-04-30 16:38:37,456 INFO Waiting 5 seconds before next request...
+2026-04-30 16:38:42,460 INFO Processing endpoint: status-indicador
+2026-04-30 16:38:42,460 INFO Fetching data from: https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/status-indicador
+2026-04-30 16:38:42,679 INFO Successfully fetched data from https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/status-indicador?dtStart=2026-04-23&dtEnd=2026-04-30
+2026-04-30 16:38:42,680 INFO Saved JSON for status-indicador at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Json\status-indicador_23-04-2026_30-04-2026.json
+2026-04-30 16:38:42,705 INFO Converted status-indicador_23-04-2026_30-04-2026.json to Excel at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Excel\status-indicador_23-04-2026_30-04-2026.xlsx
+2026-04-30 16:38:42,705 INFO Waiting 5 seconds before next request...
+2026-04-30 16:38:47,712 INFO Processing endpoint: tmr-distribuidora-indicador
+2026-04-30 16:38:47,712 INFO Fetching data from: https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/tmr-distribuidora-indicador
+2026-04-30 16:38:47,892 INFO Successfully fetched data from https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/tmr-distribuidora-indicador?dtStart=2026-04-23&dtEnd=2026-04-30
+2026-04-30 16:38:47,894 INFO Saved JSON for tmr-distribuidora-indicador at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Json\tmr-distribuidora-indicador_23-04-2026_30-04-2026.json
+2026-04-30 16:38:47,920 INFO Converted tmr-distribuidora-indicador_23-04-2026_30-04-2026.json to Excel at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Excel\tmr-distribuidora-indicador_23-04-2026_30-04-2026.xlsx
+2026-04-30 16:38:47,920 INFO Waiting 5 seconds before next request...
+2026-04-30 16:38:52,925 INFO Processing endpoint: detalhado
+2026-04-30 16:38:52,925 INFO Fetching data from: https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/detalhado
+2026-04-30 16:38:54,901 INFO Successfully fetched data from https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/detalhado?dtStart=2026-04-23&dtEnd=2026-04-30
+2026-04-30 16:38:54,920 INFO Saved JSON for detalhado at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Json\detalhado_23-04-2026_30-04-2026.json
+2026-04-30 16:38:55,187 INFO Converted detalhado_23-04-2026_30-04-2026.json to Excel at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Excel\detalhado_23-04-2026_30-04-2026.xlsx
+2026-04-30 16:38:55,188 INFO Waiting 5 seconds before next request...
+2026-04-30 16:39:00,191 INFO Execution finished. Success: 5, Failures: 0
+2026-04-30 16:50:50,407 INFO Starting RPA Report Generator...
+2026-04-30 16:50:50,423 INFO Date Filter Mode: custom
+2026-04-30 16:50:50,424 INFO Using provided reference date: 2026-04-30
+2026-04-30 16:50:50,425 INFO Calculated Date Range (custom): Start=2026-04-01, End=2026-04-30
+2026-04-30 16:50:50,425 INFO Processing endpoint: status-distribuidora
+2026-04-30 16:50:50,425 INFO Fetching data from: https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/status-distribuidora
+2026-04-30 16:50:51,235 INFO Successfully fetched data from https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/status-distribuidora?dtStart=2026-04-01&dtEnd=2026-04-30
+2026-04-30 16:50:51,236 INFO Saved JSON for status-distribuidora at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Json\status-distribuidora_01-04-2026_30-04-2026.json
+2026-04-30 16:50:51,397 INFO Converted status-distribuidora_01-04-2026_30-04-2026.json to Excel at c:\Users\Matheus De Assis\Desktop\Interface_RPA\EQTLab-RPA-interface_relatorio\EQTLab-RPA-interface_relatorio\SaidaRPA\Excel\status-distribuidora_01-04-2026_30-04-2026.xlsx
+2026-04-30 16:50:51,397 INFO Waiting 5 seconds before next request...

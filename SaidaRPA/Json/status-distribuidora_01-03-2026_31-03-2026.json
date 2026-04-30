@@ -42,7 +42,7 @@
     {
         "distribuidora": "CEEE",
         "status": "Análise",
-        "totalTickets": 2
+        "totalTickets": 1
     },
     {
         "distribuidora": "CSA",
@@ -87,7 +87,7 @@
     {
         "distribuidora": "PI",
         "status": "Concluído",
-        "totalTickets": 215
+        "totalTickets": 217
     },
     {
         "distribuidora": "PI",
@@ -97,6 +97,6 @@
     {
         "distribuidora": "PI",
         "status": "Análise",
-        "totalTickets": 24
+        "totalTickets": 22
     }
 ]

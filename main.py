@@ -17,7 +17,7 @@ def load_config(config_path: Path) -> dict:
     with open(config_path, 'r', encoding='utf-8') as f:
         return json.load(f)
 
-def parse_arguments():
+def parse_arguments(args_list=None):
     parser = argparse.ArgumentParser(description="RPA Report Generator")
     parser.add_argument(
         "--date", 
@@ -25,10 +25,10 @@ def parse_arguments():
         help="Reference date in YYYY-MM-DD format to simulate execution date. Defaults to today.",
         default=None
     )
-    return parser.parse_args()
+    return parser.parse_args(args_list)
 
-def main():
-    args = parse_arguments()
+def main(args_list=None):
+    args = parse_arguments(args_list)
     logger.info("Starting RPA Report Generator...")
     
     # Load environment variables
