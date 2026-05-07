@@ -1,0 +1,30 @@
+{
+    "date_filter_mode": "monthly",
+    "endpoints": [
+        {
+            "identifier": "status-distribuidora",
+            "url": "https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/status-distribuidora",
+            "description": "Endpoint for status-distribuidora"
+        },
+        {
+            "identifier": "indicador-distribuidora",
+            "url": "https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/indicador-distribuidora",
+            "description": "Endpoint for indicador-distribuidora"
+        },
+        {
+            "identifier": "status-indicador",
+            "url": "https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/status-indicador",
+            "description": "Endpoint for status-indicador"
+        },
+        {
+            "identifier": "tmr-distribuidora-indicador",
+            "url": "https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/tmr-distribuidora-indicador",
+            "description": "Endpoint for tmr-distribuidora-indicador"
+        },
+        {
+            "identifier": "detalhado",
+            "url": "https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/detalhado",
+            "description": "Endpoint for detalhado"
+        }
+    ]
+}

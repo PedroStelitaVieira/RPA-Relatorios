@@ -1,0 +1,19 @@
+__pycache__/
+build/
+dist/
+venv/
+
+# binários
+*.exe
+*.pkg
+
+# logs
+*.log
+
+# ambiente
+.env
+
+# dados / arquivos locais
+Modelos_Json/
+Modelos_Extracao-BD/
+SaidaRPA/

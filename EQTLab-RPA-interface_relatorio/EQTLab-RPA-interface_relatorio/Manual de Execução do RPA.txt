@@ -1,0 +1,81 @@
+Manual de Execução do RPA
+
+1. Abrir o sistema
+
+Execute o arquivo do RPA.
+Aguarde a abertura da tela principal.
+2. Escolher o período
+Na tela, selecione uma das opções:
+
+Mensal
+Semanal
+Diário
+Personalizado
+Se escolher Personalizado, será necessário preencher as datas.
+
+3. Preencher as datas
+No modo Personalizado, informe:
+
+Início
+Fim
+Formato obrigatório:
+
+DD/MM/AAAA
+Exemplo:
+
+01/05/2026
+31/05/2026
+As barras são inseridas automaticamente durante a digitação.
+
+4. Executar o processo
+
+Depois de escolher o período, clique em Executar.
+O botão mudará para Extraindo...
+Isso indica que o RPA está em execução.
+5. Acompanhar a execução
+Durante o processo, acompanhe a área de Logs na própria tela.
+Nessa área, aparecerão mensagens como:
+
+início da execução
+andamento do processo
+possíveis erros
+finalização
+6. Onde fica a saída
+A saída principal do processo depende do que foi programado no main.py.
+
+Normalmente, o RPA pode gerar:
+
+arquivos Excel
+arquivos CSV
+relatórios em PDF
+dados salvos em alguma pasta do projeto
+informações atualizadas em sistema ou planilha
+Se o processo foi configurado para salvar arquivos localmente, a saída geralmente ficará:
+
+na mesma pasta do projeto
+em alguma subpasta como output, relatorios, downloads ou similar
+Também é importante observar:
+
+a área de Logs pode indicar o local onde o arquivo foi salvo
+o arquivo config/endpoints.json guarda apenas configurações, não é a saída final do relatório
+7. Quando termina
+Ao final da execução:
+
+o botão volta para Executar
+a mensagem Extração finalizada. aparecerá nos logs
+Isso indica que o processo terminou.
+
+8. Cuidados importantes
+
+Não feche a janela enquanto o RPA estiver executando!!!.
+Confira se as datas estão corretas antes de iniciar.
+A data inicial não pode ser maior que a data final.
+Se houver erro, verifique a mensagem mostrada nos logs.
+
+9. Resumo rápido geral
+Abra o RPA.
+Escolha o período.
+Se necessário, preencha as datas.
+Clique em Executar.
+Acompanhe os logs.
+Verifique a pasta de saída dos relatórios após a finalização.
