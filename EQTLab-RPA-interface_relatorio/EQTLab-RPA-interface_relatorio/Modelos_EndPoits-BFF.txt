@@ -1,5 +1,0 @@
-https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/status-distribuidora
-https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/indicador-distribuidora
-https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/status-indicador
-https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/tmr-distribuidora-indicador
-https://delfos.apps.equatorialenergia.com.br/bff/relatorios/relatorios/tickets/detalhado
