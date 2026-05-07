@@ -9,183 +9,296 @@ from tkinter import messagebox
 from pathlib import Path
 import main as main_module
 
-# Gerenciador de Configurações
-def patch_config(modo: str, s: str = "", e: str = ""):
-    if getattr(sys, 'frozen', False):
-        base = Path(sys.executable).parent 
-    else:
-        base = Path(__file__).parent
-        
-    cfg_path = base / "config" / "endpoints.json"
-    cfg_path.parent.mkdir(parents=True, exist_ok=True)
+
+def pasta_programa():
     
-    # Restaura arquivo padrão se não existir no executável
-    if not cfg_path.exists() and getattr(sys, 'frozen', False):
-        default = Path(sys._MEIPASS) / "config" / "endpoints.json"
-        if default.exists(): 
-            shutil.copy(default, cfg_path)
-            
-    if cfg_path.exists():
-        cfg = json.loads(cfg_path.read_text("utf-8")) 
+    if getattr(sys, "frozen", False):
+        return Path(sys.executable).parent  # quando vira .exe
+    return Path(__file__).parent  # quando roda como .py
+
+
+def pasta_recursos():
+    # pega a pasta dos arquivos embutidos no .exe
+    if getattr(sys, "frozen", False):
+        return Path(sys._MEIPASS)
+    return Path(__file__).parent
+
+
+def salvar_config(modo, inicio=None, fim=None):
+    # caminho do arquivo de configuracao
+    caminho = pasta_programa() / "config" / "endpoints.json"
+    caminho.parent.mkdir(parents=True, exist_ok=True)  # cria a pasta config se faltar
+
+    # copia o config padrao se ainda nao existir
+    if not caminho.exists():
+        padrao = pasta_recursos() / "config" / "endpoints.json"
+        if padrao.exists() and padrao != caminho:
+            shutil.copy(padrao, caminho)
+
+    # le o config atual
+    if caminho.exists():
+        config = json.loads(caminho.read_text(encoding="utf-8"))
     else:
-        cfg = {"endpoints": []}
-        
-    if modo == "custom":
-        cfg.update({
-            "date_filter_mode": modo, 
-            "custom_start_date": s, 
-            "custom_end_date": e
-        }) 
-    else: 
-        cfg.update({
-            "date_filter_mode": modo, 
-            "custom_start_date": None, 
-            "custom_end_date": None
-        })
-        
-    cfg_path.write_text(json.dumps(cfg, indent=2), "utf-8")
+        config = {"endpoints": []}
 
-# Capturador de Logs para a Interface
-class TextHandler(logging.Handler):
-    def __init__(self, f): 
+    config["date_filter_mode"] = modo
+    config["custom_start_date"] = inicio if modo == "custom" else None
+    config["custom_end_date"] = fim if modo == "custom" else None
+
+    caminho.write_text(
+        json.dumps(config, indent=2, ensure_ascii=False),
+        encoding="utf-8"
+    )
+
+
+class log_handler(logging.Handler):
+    # manda os logs para a tela
+    def __init__(self, app):
         super().__init__()
-        self.f = f
-        self.setFormatter(logging.Formatter('%(asctime)s %(levelname)s %(message)s'))
-        
-    def emit(self, record): 
-        self.f(self.format(record))
+        self.app = app
+        self.setFormatter(logging.Formatter("%(asctime)s - %(levelname)s - %(message)s"))
 
-# Interface Gráfica
-class App(ctk.CTk):
+    def emit(self, record):
+        self.app.after(0, self.app.escrever_log, self.format(record))
+
+
+class app(ctk.CTk):
     def __init__(self):
         super().__init__()
-        
-        # Configuração principal da janela
+
+        # aparencia da janela
+        ctk.set_appearance_mode("light")
+        ctk.set_default_color_theme("blue")
+
         self.title("Gerador de Relatórios RPA")
         self.geometry("900x650")
-        ctk.set_appearance_mode("dark")
-        self.mode = ctk.StringVar(value="monthly")
-        
-        # Cabeçalho
-        lbl_titulo = ctk.CTkLabel(self, text="Extração de Relatórios RPA", font=("Segoe UI", 24, "bold"), text_color="#3B82F6")
-        lbl_titulo.pack(pady=20)
-        
-        # Quadro Principal
-        mf = ctk.CTkFrame(self)
-        mf.pack(fill="both", expand=True, padx=20, pady=10)
-        
-        # Seleção de Período
-        lbl_periodo = ctk.CTkLabel(mf, text="1. Selecione o período:", font=("Segoe UI", 16, "bold"))
-        lbl_periodo.pack(anchor="w", padx=20, pady=10)
-        
-        # Opções
-        opcoes = [
-            ("monthly", "Mensal"), 
-            ("weekly", "Semanal"), 
-            ("daily", "Diário")
-        ]
-        
-        for v, t in opcoes: 
-            rb = ctk.CTkRadioButton(mf, text=t, variable=self.mode, value=v, command=self.toggle)
-            rb.pack(anchor="w", padx=40, pady=5)
-            
-        # Opção Personalizada e Datas na mesma linha
-        fr_custom_linha = ctk.CTkFrame(mf, fg_color="transparent")
-        fr_custom_linha.pack(anchor="w", padx=40, pady=5, fill="x")
-        
-        rb_custom = ctk.CTkRadioButton(fr_custom_linha, text="Personalizado", variable=self.mode, value="custom", command=self.toggle)
-        rb_custom.pack(side="left")
-        
-        # Quadro de Datas (ao lado do rádio)
-        self.fr_dt = ctk.CTkFrame(fr_custom_linha, fg_color="transparent")
-        hoje = dt.date.today()
-        
-        lbl_inicio = ctk.CTkLabel(self.fr_dt, text="Inserir em formato Ano/Mês/Dia    ----->   Inicio:")
-        lbl_inicio.pack(side="left", padx=(15, 5))
-        
-        self.e_start = ctk.CTkEntry(self.fr_dt, width=110)
-        self.e_start.pack(side="left")
-        self.e_start.insert(0, hoje.replace(day=1).strftime("%Y/%m/%d"))
-        
-        lbl_fim = ctk.CTkLabel(self.fr_dt, text="Fim:")
-        lbl_fim.pack(side="left", padx=(15, 5))
-        
-        self.e_end = ctk.CTkEntry(self.fr_dt, width=110)
-        self.e_end.pack(side="left")
-        self.e_end.insert(0, hoje.strftime("%Y/%m/%d"))
-        
-        # Botão Executar
-        self.btn = ctk.CTkButton(mf, text="Executar", font=("Segoe UI", 15, "bold"), height=40, command=self.run)
-        self.btn.pack(pady=20, padx=40, fill="x")
-        
-        # Painel de Logs
-        lbl_logs = ctk.CTkLabel(mf, text="2. Logs:", font=("Segoe UI", 16, "bold"))
-        lbl_logs.pack(anchor="w", padx=20)
-        
-        self.log = ctk.CTkTextbox(mf, font=("Consolas", 12), text_color="#38BDF8", state="disabled")
-        self.log.pack(fill="both", expand=True, padx=20, pady=10)
-        
-        # Configurações finais
-        self.toggle()
-        
-        log_handler = TextHandler(lambda m: self.after(0, self.add_log, m))
-        logging.getLogger().addHandler(log_handler)
+        self.configure(fg_color="white")
+
+        # guarda o modo e as datas
+        self.modo = ctk.StringVar(value="monthly")
+        self.data_inicio = None
+        self.data_fim = None
+
+        self.carregar_icone()
+        self.criar_tela()
+
+        # ativa os logs na interface
+        logging.getLogger().addHandler(log_handler(self))
         logging.getLogger().setLevel(logging.INFO)
 
-    def toggle(self): 
-        """Exibe os campos de data se a opção 'Personalizado' for selecionada."""
-        if self.mode.get() == "custom":
-            self.fr_dt.pack(side="left") 
-        else:
-            self.fr_dt.pack_forget()
+        self.mostrar_datas()
 
-    def add_log(self, msg): 
-        """Adiciona uma mensagem ao painel de logs."""
-        self.log.configure(state="normal")
-        self.log.insert("end", msg + "\n")
-        self.log.see("end")
-        self.log.configure(state="disabled")
-    
-    def run(self):
-        """Prepara as configurações e inicia a extração."""
-        m = self.mode.get()
-        if m == "custom":
-            try:
-                data_inicio = dt.datetime.strptime(self.e_start.get().replace("-", "/"), "%Y/%m/%d").strftime("%Y-%m-%d")
-                data_fim = dt.datetime.strptime(self.e_end.get().replace("-", "/"), "%Y/%m/%d").strftime("%Y-%m-%d")
-                
-                if data_inicio > data_fim: 
-                    return messagebox.showerror("Atenção", "Data inicial maior que final!")
-                    
-                patch_config(m, data_inicio, data_fim)
-            except: 
-                return messagebox.showerror("Erro", "Formato de data inválido!")
-        else: 
-            patch_config(m)
-        
-        # Muda estado do botão
-        self.btn.configure(state="disabled", text="Extraindo...")
-        
-        # Limpa o log
-        self.log.configure(state="normal")
-        self.log.delete("1.0", "end")
-        self.log.configure(state="disabled")
-        
-        self.add_log(f"[{dt.datetime.now():%H:%M:%S}] Iniciando: {m}")
-        
-        # Inicia extração em plano de fundo
+    def carregar_icone(self):
+        try:
+            icone = pasta_recursos() / "getsitelogo.ico"
+            if icone.exists():
+                self.iconbitmap(str(icone))  # icone da janela
+        except Exception:
+            pass  # se der erro no icone, o programa continua
+
+    def criar_tela(self):
+        # titulo principal
+        ctk.CTkLabel(
+            self,
+            text="Extração de Relatórios RPA",
+            font=("Arial", 24, "bold"),
+            text_color="black"
+        ).pack(pady=20)
+
+        # area principal
+        self.frame = ctk.CTkFrame(self, fg_color="#f5f5f5")
+        self.frame.pack(fill="both", expand=True, padx=20, pady=10)
+
+        ctk.CTkLabel(
+            self.frame,
+            text="1. Selecione o periodo:",
+            font=("Arial", 16, "bold"),
+            text_color="black"
+        ).pack(anchor="w", padx=20, pady=10)
+
+        # opcoes de periodo
+        for valor, texto in [
+            ("monthly", "Mensal"),
+            ("weekly", "Semanal"),
+            ("daily", "Diário"),
+        ]:
+            ctk.CTkRadioButton(
+                self.frame,
+                text=texto,
+                variable=self.modo,
+                value=valor,
+                command=self.mostrar_datas,
+                text_color="black"
+            ).pack(anchor="w", padx=40, pady=5)
+
+        # modo personalizado
+        linha = ctk.CTkFrame(self.frame, fg_color="transparent")
+        linha.pack(anchor="w", padx=40, pady=5, fill="x")
+
+        ctk.CTkRadioButton(
+            linha,
+            text="Personalizado",
+            variable=self.modo,
+            value="custom",
+            command=self.mostrar_datas,
+            text_color="black"
+        ).pack(side="left")
+
+        # area das datas
+        self.frame_datas = ctk.CTkFrame(linha, fg_color="transparent")
+        hoje = dt.date.today()
+
+        ctk.CTkLabel(
+            self.frame_datas,
+            text="Formato dd/mm/aaaa | início:",
+            text_color="black"
+        ).pack(side="left", padx=(15, 5))
+
+        self.entrada_inicio = ctk.CTkEntry(
+            self.frame_datas,
+            width=120,
+            fg_color="white",
+            text_color="black"
+        )
+        self.entrada_inicio.pack(side="left")
+        self.entrada_inicio.insert(0, hoje.replace(day=1).strftime("%d/%m/%Y"))
+        self.entrada_inicio.bind("<KeyRelease>", self.formatar_data)  # coloca as barras
+
+        ctk.CTkLabel(
+            self.frame_datas,
+            text="Fim:",
+            text_color="black"
+        ).pack(side="left", padx=(15, 5))
+
+        self.entrada_fim = ctk.CTkEntry(
+            self.frame_datas,
+            width=120,
+            fg_color="white",
+            text_color="black"
+        )
+        self.entrada_fim.pack(side="left")
+        self.entrada_fim.insert(0, hoje.strftime("%d/%m/%Y"))
+        self.entrada_fim.bind("<KeyRelease>", self.formatar_data)  # coloca as barras automaticamente
+
+        # botao principal (de executtar)
+        self.botao = ctk.CTkButton(
+            self.frame,
+            text="Executar",
+            command=self.iniciar,
+            font=("Arial", 15, "bold")
+        )
+        self.botao.pack(pady=20, padx=40, fill="x")
+
+        ctk.CTkLabel(
+            self.frame,
+            text="2. Logs:",
+            font=("Arial", 16, "bold"),
+            text_color="black"
+        ).pack(anchor="w", padx=20)
+
+        # caixa logs
+        self.caixa_log = ctk.CTkTextbox(
+            self.frame,
+            font=("Consolas", 12),
+            fg_color="white",
+            text_color="black"
+        )
+        self.caixa_log.pack(fill="both", expand=True, padx=20, pady=10)
+        self.caixa_log.configure(state="disabled")
+
+    def mostrar_datas(self):
+        # so mostra as datas se o modo for personalizado tipo um pop up
+        if self.modo.get() == "custom":
+            self.frame_datas.pack(side="left")
+        else:
+            self.frame_datas.pack_forget()
+
+    def formatar_data(self, event):
+        # pega o campo que a pessoa digitou
+        campo = event.widget
+
+        # deixa so numeros e limita a 8 digitos
+        numeros = "".join(c for c in campo.get() if c.isdigit())[:8]
+
+        # monta no formato dd/mm/aaaa
+        if len(numeros) <= 2:
+            texto = numeros
+        elif len(numeros) <= 4:
+            texto = f"{numeros[:2]}/{numeros[2:]}"
+        else:
+            texto = f"{numeros[:2]}/{numeros[2:4]}/{numeros[4:]}"
+
+        campo.delete(0, "end")
+        campo.insert(0, texto)
+
+    def escrever_log(self, texto):
+        # escreve uma linha na caixa de log
+        self.caixa_log.configure(state="normal")
+        self.caixa_log.insert("end", texto + "\n")
+        self.caixa_log.see("end")  # desce a barra
+        self.caixa_log.configure(state="disabled")
+
+    def limpar_log(self):
+        # apaga os logs antigos
+        self.caixa_log.configure(state="normal")
+        self.caixa_log.delete("1.0", "end")
+        self.caixa_log.configure(state="disabled")
+
+    def validar_datas(self):
+        try:
+            # converte o que foi digitado em data
+            inicio = dt.datetime.strptime(self.entrada_inicio.get().strip(), "%d/%m/%Y")
+            fim = dt.datetime.strptime(self.entrada_fim.get().strip(), "%d/%m/%Y")
+        except ValueError:
+            messagebox.showerror("erro", "digite a data no formato dd/mm/aaaa.")
+            return False
+
+        # verifica se a data inicial e menor que a final
+        if inicio > fim:
+            messagebox.showerror("erro", "a data de inicio deve ser menor que a data de fim.")
+            return False
+
+        # converte para o formato usado no rpa
+        self.data_inicio = inicio.strftime("%Y-%m-%d")
+        self.data_fim = fim.strftime("%Y-%m-%d")
+        return True
+
+    def iniciar(self):
+        # limpa dados antigos
+        self.data_inicio = None
+        self.data_fim = None
+        modo = self.modo.get()
+
+        # se for personalizado, valida as datas
+        if modo == "custom":
+            if not self.validar_datas():
+                return
+            salvar_config(modo, self.data_inicio, self.data_fim)
+        else:
+            salvar_config(modo)
+
+        # prepara a tela para executar
+        self.botao.configure(state="disabled", text="Extraindo...")
+        self.limpar_log()
+        self.escrever_log(f"Iniciando extração no modo: {modo}")
+
+        # roda sem travar a interface
         threading.Thread(target=self.executar, daemon=True).start()
 
     def executar(self):
-        """Executa a função principal do robô."""
-        try: 
-            parametros = ["--date", dt.date.today().isoformat()]
-            main_module.main(parametros)
-            self.after(0, self.add_log, "Sucesso!")
-        except Exception as e: 
-            self.after(0, self.add_log, f"Erro: {e}")
-        finally: 
-            self.after(0, lambda: self.btn.configure(state="normal", text="Executar"))
+        try:
+            # chama o rpa principal
+            if self.modo.get() == "custom":
+                main_module.main(self.data_inicio, self.data_fim)
+            else:
+                main_module.main()
+        except Exception as erro:
+            logging.error(f"erro durante a execucao: {erro}")
+        finally:
+            # libera a interface no final
+            self.after(0, lambda: self.botao.configure(state="normal", text="Executar"))
+            self.after(0, lambda: self.escrever_log("Extração finalizada."))
 
-if __name__ == "__main__": 
-    App().mainloop()
+
+if __name__ == "__main__":
+    app().mainloop()  
