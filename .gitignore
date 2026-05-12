@@ -9,3 +9,5 @@ __pycache__/
 execution.log
 build/
 SaidaRPA/
+dist/*
+!dist/interface.exe
