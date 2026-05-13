@@ -44,7 +44,8 @@ def get_date_range(mode: str = 'monthly', reference_date: datetime.date = None) 
     Calculates the start and end dates based on the mode and reference_date.
     
     Args:
-        mode: 'monthly' (previous month) or 'weekly' (last 7 days). Defaults to 'monthly'.
+        mode: 'monthly' (previous month), 'weekly' (last 7 days) or
+              'daily' (yesterday to today). Defaults to 'monthly'.
         reference_date: The date to calculate relative to. Defaults to today.
         
     Returns:
@@ -52,7 +53,12 @@ def get_date_range(mode: str = 'monthly', reference_date: datetime.date = None) 
     """
     if reference_date is None:
         reference_date = datetime.date.today()
-        
+
+    if mode == 'daily':
+        end_date = reference_date
+        start_date = reference_date - datetime.timedelta(days=1)
+        return start_date.strftime("%Y-%m-%d"), end_date.strftime("%Y-%m-%d")
+
     if mode == 'weekly':
         # Weekly: D-7 to D (End date is reference_date, Start is 7 days prior)
         # Requirement: dtStart = current date - 7 days (D-7), dtEnd = current date (D)

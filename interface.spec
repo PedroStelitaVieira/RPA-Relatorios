@@ -5,7 +5,11 @@ a = Analysis(
     ['interface.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[
+        ('getsitelogo.ico', '.'),
+        ('Modelos_EndPoits-BFF.txt', '.'),
+        ('config\\endpoints.json', 'config'),
+    ],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},

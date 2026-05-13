@@ -8,6 +8,7 @@ import shutil
 from tkinter import messagebox
 from pathlib import Path
 import main as main_module
+from src.config_loader import ensure_config_file
 
 
 def pasta_programa():
@@ -27,13 +28,7 @@ def pasta_recursos():
 def salvar_config(modo, inicio=None, fim=None):
     # caminho do arquivo de configuracao
     caminho = pasta_programa() / "config" / "endpoints.json"
-    caminho.parent.mkdir(parents=True, exist_ok=True)  # cria a pasta config se faltar
-
-    # copia o config padrao se ainda nao existir
-    if not caminho.exists():
-        padrao = pasta_recursos() / "config" / "endpoints.json"
-        if padrao.exists() and padrao != caminho:
-            shutil.copy(padrao, caminho)
+    garantir_config_inicial()
 
     # le o config atual
     if caminho.exists():
@@ -49,6 +44,24 @@ def salvar_config(modo, inicio=None, fim=None):
         json.dumps(config, indent=2, ensure_ascii=False),
         encoding="utf-8"
     )
+
+def garantir_config_inicial():
+    caminho = pasta_programa() / "config" / "endpoints.json"
+    if caminho.exists():
+        return
+
+    padrao = pasta_recursos() / "config" / "endpoints.json"
+    if padrao.exists() and padrao != caminho:
+        caminho.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy(padrao, caminho)
+        return
+
+    for origem in (
+        pasta_programa() / "Modelos_EndPoits-BFF.txt",
+        pasta_recursos() / "Modelos_EndPoits-BFF.txt",
+    ):
+        if ensure_config_file(caminho, origem):
+            return
 
 
 class log_handler(logging.Handler):
@@ -80,6 +93,7 @@ class app(ctk.CTk):
         self.data_fim = None
 
         self.carregar_icone()
+        garantir_config_inicial()
         self.criar_tela()
 
         # ativa os logs na interface
@@ -289,7 +303,9 @@ class app(ctk.CTk):
         try:
             # chama o rpa principal
             if self.modo.get() == "custom":
-                main_module.main(self.data_inicio, self.data_fim)
+                # passa data como argumento se for personalizado, para o rpa usar esse filtro de data
+                args = ["--date", self.data_inicio]
+                main_module.main(args)
             else:
                 main_module.main()
         except Exception as erro:
@@ -301,4 +317,4 @@ class app(ctk.CTk):
 
 
 if __name__ == "__main__":
-    app().mainloop()  
+    app().mainloop()
