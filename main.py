@@ -6,6 +6,7 @@ import argparse
 from pathlib import Path
 from dotenv import load_dotenv
 from src.utils import setup_logger, get_project_root, ensure_directories, get_date_range
+from src.config_loader import ensure_config_file
 from src.api_client import APIClient
 from src.json_exporter import save_json_data
 from src.excel_converter import convert_json_to_excel
@@ -37,6 +38,7 @@ def main(args_list=None):
     # Paths
     root_dir = get_project_root()
     config_path = root_dir / "config" / "endpoints.json"
+    endpoints_source = root_dir / "Modelos_EndPoits-BFF.txt"
     output_base = root_dir / "SaidaRPA"
     json_dir = output_base / "Json"
     excel_dir = output_base / "Excel"
@@ -44,8 +46,7 @@ def main(args_list=None):
     # Ensure directories exist
     ensure_directories([json_dir, excel_dir])
     
-    # Check config
-    if not config_path.exists():
+    if not ensure_config_file(config_path, endpoints_source):
         logger.error(f"Config file not found at {config_path}. Please run setup or check paths.")
         return
 
