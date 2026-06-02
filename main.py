@@ -10,6 +10,7 @@ from src.config_loader import ensure_config_file
 from src.api_client import APIClient
 from src.json_exporter import save_json_data
 from src.excel_converter import convert_json_to_excel
+from src.detailed_report import fetch_report_in_blocks
 
 # Setup logger
 logger = setup_logger()
@@ -128,7 +129,7 @@ def main(args_list=None):
         # 1. Fetch Data with dynamic params
         # Note: If the base URL in config already has params, requests merges them.
         # But we cleaned the config to not have date params.
-        data = client.fetch_data(url, params=query_params)
+        data = fetch_report_in_blocks(client, url, query_params, identifier=identifier)
         
         if data:
             # 2. Save JSON
